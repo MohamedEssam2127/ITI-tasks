@@ -27,10 +27,12 @@ myObj = {
 // console.log("Get Name: ", myObj.getname());
 
 
-// user = { name: "Ali", age:10} 
-// myObj.getSetGen.call(user);
+user = { name: "Ali", age:10 , fun :function(){
+    console.log('hello')
+}} 
+myObj.getSetGen.call(user);
 
-// user.setname("Ahmed");
-// console.log(user.getname()); 
-// user.set
-// console.log(user.getage());  
+user.setname("Ahmed");
+console.log(user.getname()); 
+user.set
+console.log(user);  

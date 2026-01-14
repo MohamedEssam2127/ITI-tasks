@@ -102,7 +102,7 @@ lnkdLstObj = {
 
 lnkdLstObj.insert(0, 2); // [2]
 lnkdLstObj.insert(1, 5); // [2,5]
-lnkdLstObj.insert(1, 3); // [2,3,5]
+lnkdLstObj.insert(1,3); // [2,3,5]
 lnkdLstObj.push(8)  //[2,3,5,8]
 lnkdLstObj.push(9)   //[2,3,5,8,9]
 lnkdLstObj.Enqueue(1) //[1,2,3,5,8,9]
