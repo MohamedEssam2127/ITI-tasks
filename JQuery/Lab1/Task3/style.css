@@ -1,0 +1,22 @@
+.content{
+    border: 3px red solid;
+    width :800px;
+    height: 500px;
+}
+
+#img1{
+    position: relative;
+    left: 0;
+    top :45%
+}
+
+#img2{
+  position: relative;
+    left: 700px;
+    top :45%
+}
+#img3{
+position: relative;
+    top: 450px;
+    left: 45%;
+}
