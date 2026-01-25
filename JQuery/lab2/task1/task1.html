@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="style.css" rel="stylesheet"></link>
+</head>
+<body>
+    <div class="btns" >
+        <input type="button" value="about" class="btn"  />
+        <input type="button" value="Gallary" class="btn"/>
+        <input type="button" value="services"class="btn" />
+        <input type="button" value="Complain" class="btn"/>
+    </div>
+    <div id = 'about' class="section" >
+        <p> story about snow man </p>
+    </div> 
+
+
+<div id="services" class="section" >
+    <input  id="s1" value="Item1" type="button"  class="service">
+    <input id="s2" value="Item2" type="button"  class="service">
+    <input id="s3" value="Item3" type="button" class="service">
+    <input id="s4" value="Item4" type="button" class="service">
+</div>
+
+     <div id="galary" class="section">
+        <img src="images/left.png" id="left"  class="arrow"/>
+        
+        <img src="images/1.jpg" id="slide"/>
+        <img src="images/right.png" id="right" class="arrow"/>
+    </div>
+
+
+
+
+
+
+    <div id="complain_div" class="section">
+    <div>
+        <label for="name">Name</label>
+        <input id="name" type="text">
+    </div>
+
+    <div>
+        <label for="email">Email</label>
+        <input id="email" type="text">
+    </div>
+
+    <div>
+        <label for="phone">Phone</label>
+        <input id="phone" type="text">
+    </div>
+
+    <div >
+        <label for="complain" id="txtAreaLabel">Complain</label>
+        <br>
+        <textarea id="complain"></textarea>
+    </div>
+
+    <input type="button" id="send" value="send">
+
+</div>
+
+<div id="result_div"  class="section">
+    <p>Your complain is <span id="res_complain"></span></p>
+    <p>Your name is <span id="res_name"></span></p>
+    <p>Your email is <span id="res_email"></span></p>
+    <p>Your phone is <span id="res_phone"></span></p>
+    <input type="button" id="back" value="Back to edit">
+</div>
+
+<script src="https://code.jquery.com/jquery-4.0.0.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

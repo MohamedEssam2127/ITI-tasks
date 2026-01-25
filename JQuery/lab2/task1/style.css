@@ -1,0 +1,121 @@
+*{
+    font-family: "Dubai Light", sans-serif;
+}
+
+.btns{
+    text-align: center;
+}
+
+.btn {
+    width: 200px;
+    height: 50px;
+    background-color: #f46c9e;
+    box-shadow: 5px 10px 15px #d4d4d4; 
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    margin-right: 15px; 
+    font-size: 25px;
+    cursor: pointer;
+}
+
+
+#galary {
+    margin: auto;
+    text-align: center;
+}
+.arrow{
+    width: 30px;
+    margin-bottom: 100px;
+}
+#slide{
+    margin: 40px;
+    margin-top: 100px;
+    height: 150px;
+    min-width: 260px;
+}
+
+#complain_div{
+    margin: auto;
+    margin-top: 100px;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    box-shadow:  0px 15px 25px #7e7e7e ;
+}
+
+
+#result_div{
+    margin: auto;
+    margin-top: 100px;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    box-shadow:  0px 15px 25px #7e7e7e ;
+}
+
+label{
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+}
+input[type="text"] {
+    margin-top: 10px;
+}
+textarea{
+    width: 300px;
+    height: 80px;
+}
+#txtAreaLabel{
+    text-align: center;
+}
+
+
+#about {
+    box-shadow:  0px 15px 25px #7e7e7e ;
+    height: 100px;
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.section {
+  display: none;
+}
+
+#s1{
+    position: absolute;
+    top: 80px;
+    left: 770px;
+}
+
+#s2{
+    position: absolute;
+    top: 140px;
+    left: 770px;
+}
+
+#s3{
+    position: absolute;
+    top: 200px;
+    left: 770px;
+}
+
+#s4{
+    position: absolute;
+    top: 260px;
+    left: 770px;
+}
+.service{
+        width: 200px;
+    height: 50px;
+    background-color: #f46c9e;
+    box-shadow: 5px 10px 15px #d4d4d4; 
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    margin-right: 15px; 
+    font-size: 25px;
+    cursor: pointer;
+}
