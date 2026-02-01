@@ -1,4 +1,3 @@
-window.localStorage = null
 
 
 console.log(window.localStorage);
