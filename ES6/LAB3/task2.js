@@ -24,7 +24,7 @@ const handler =  {
             }else if (prop === 'age'  && value >= 25 && value <= 60 ){
                 target[prop]= value
             }else {
-            throw `Invalid value for ${prop}`;
+            throw `invalid value for ${prop}`;
         }
         
     },
