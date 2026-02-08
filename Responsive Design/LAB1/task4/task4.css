@@ -1,0 +1,122 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    gap:15px;
+    justify-content: space-around;
+}
+
+header{
+background-color: rgb(206, 206, 206);
+display: flex;
+flex-flow: column wrap;
+justify-content: space-around;
+padding: 0px 30px;
+}
+.hParent {
+    display: flex;
+    flex-wrap: wrap;
+}
+.logo {
+    flex-grow: 1;
+    flex-basis: 300px;
+}
+.links {
+    display: flex;
+    justify-content: space-around;
+    flex-grow: 2;
+    flex-wrap: wrap;
+    align-items: center;
+    gap:4px ;
+}
+
+.links div {
+    flex-basis: 50px;
+    flex-basis: 100px;
+}
+.intro{
+     flex-grow: 1;
+     flex-wrap: wrap;
+}
+.Featured {
+    display: flex;
+    background-color: darkgray;
+    flex-basis: 200px;
+    min-height: 50px;
+     flex-grow: 2;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+.dots {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+
+.dots span {
+    width: 10px;
+    height: 10px;
+    background-color: #a9a9a9;
+    border-radius: 50%;
+}
+
+
+
+.main {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.Services {
+    flex-basis: 30%;
+    min-width: 350px;
+    height: 140px;
+    background-color:rgb(206, 206, 206);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
+#Twitter{
+     flex-basis: 90%;
+    height: 80px ;
+    background-color: rgb(206, 206, 206);
+}
+footer {
+    display: flex;
+    background-color: rgb(206, 206, 206);
+    padding: 20px 50px; 
+    justify-content: space-between; 
+    align-items: center;
+    flex-wrap: wrap; 
+    gap: 20px;
+    margin-top: auto; 
+}
+
+footer .links {
+    flex-grow: 1; 
+    justify-content: flex-start ;
+    gap: 15px;
+}
+
+footer .copyright {
+    flex-grow: 0; 
+    text-align: right;
+    font-weight: bold;
+    color: #333;
+}

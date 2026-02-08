@@ -1,0 +1,13 @@
+.parent {
+    outline: solid 3px black;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.c1 {
+    text-align: left;
+    outline: 3px solid rgb(255, 196, 0) ;
+    padding: 1%;
+}

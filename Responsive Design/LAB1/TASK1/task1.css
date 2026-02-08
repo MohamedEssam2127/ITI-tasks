@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    gap : 10px;
+    flex-direction: column;
+}
+
+
+header {
+    display: flex;
+    background-color: rgb(224, 224, 224);
+    justify-content: space-around;
+    padding: 1vw 0px;
+    gap: 20px ;
+    flex-wrap: wrap;
+}
+.c1 {
+    font-weight: 600;
+    flex-grow: 1  ;
+    flex-basis: 250px ;
+    text-align: center;
+}
+
+.main {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.content {
+    outline: solid black 1px;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: column wrap;
+    flex-basis: 250px;
+    flex-grow: 1;
+    text-align: center;
+    gap : 70px ;
+}
+footer {
+     background-color: rgb(224, 224, 224);
+     text-align: center;
+}
