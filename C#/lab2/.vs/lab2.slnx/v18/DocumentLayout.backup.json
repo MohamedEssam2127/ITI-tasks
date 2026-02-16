@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ITI\\ITI_tasks\\C#\\Lab1\\",
+  "WorkspaceRootPath": "D:\\ITI\\ITI_tasks\\C#\\lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|d:\\iti\\iti_tasks\\c#\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|lab2\\lab2.csproj|d:\\iti\\iti_tasks\\c#\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,13 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\Lab1\\Lab1\\Program.cs",
-              "RelativeDocumentMoniker": "Lab1\\Program.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab1\\Lab1\\Program.cs*",
-              "RelativeToolTip": "Lab1\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\lab2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\lab2\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T14:39:33.898Z",
+              "WhenOpened": "2026-02-11T10:55:00.22Z",
               "EditorCaption": ""
             }
           ]
