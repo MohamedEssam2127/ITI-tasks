@@ -1,0 +1,16 @@
+Renamed Types:
+
+[Lab1]Lab1.Program -> [Lab1]A.A
+{
+	[Lab1]Lab1.Program::Main[1]( [System.Runtime]System.String[] ) -> A
+
+	[Lab1]Lab1.Program::.ctor[0]( ) skipped:  special name
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+
+Skipped Resources:
+

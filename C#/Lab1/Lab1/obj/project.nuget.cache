@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "r7Nrh1L6dtg=",
+  "dgSpecHash": "uirqq0mbBws=",
   "success": true,
   "projectFilePath": "D:\\ITI\\ITI_tasks\\C#\\Lab1\\Lab1\\Lab1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\obfuscar\\2.2.50\\obfuscar.2.2.50.nupkg.sha512"
+  ],
   "logs": []
 }
