@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\ITI\\ITI_tasks\\C#\\Lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13A1CE31-D736-42F4-BB62-F89C9F9BC7C2}|Lab3\\Lab3.csproj|d:\\iti\\iti_tasks\\c#\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13A1CE31-D736-42F4-BB62-F89C9F9BC7C2}|Lab3\\Lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|d:\\iti\\iti_tasks\\c#\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Lab3\\Program.cs",
               "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab3\\Lab3\\Program.cs",
               "RelativeToolTip": "Lab3\\Program.cs",
-              "ViewState": "AgIAABgBAAAAAAAAAAAcwA4BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwBAAAAAAAAAAAmwDcBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T10:50:11.121Z",
               "EditorCaption": ""
