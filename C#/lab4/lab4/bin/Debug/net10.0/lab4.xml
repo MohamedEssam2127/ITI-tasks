@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>lab4</name>
+    </assembly>
+    <members>
+        <member name="T:Lab4.Employee">
+            <summary>
+            Represents an Employee with an id, security level, salary, hire date, and gender.
+            </summary>
+        </member>
+        <member name="T:Lab4.HiringDate">
+            <summary>
+            Represents the hiring date structure  of Day, Month, and Year.
+            </summary>
+        </member>
+        <member name="T:Lab4.Gender">
+            <summary>
+            Defines the gender of an employee.
+            </summary>
+        </member>
+        <member name="F:Lab4.Gender.M">
+            <summary>male</summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "F:Lab4.Gender.F" -->
+        <member name="F:Lab4.SECURITY.guest">
+            <summary>Basic access level</summary>
+        </member>
+        <member name="F:Lab4.SECURITY.Developer">
+            <summary>Developer access level</summary>
+        </member>
+        <member name="F:Lab4.SECURITY.secretary">
+            <summary>Secretary access level</summary>
+        </member>
+        <member name="F:Lab4.SECURITY.DBA">
+            <summary>Database Administrator access level</summary>
+        </member>
+    </members>
+</doc>

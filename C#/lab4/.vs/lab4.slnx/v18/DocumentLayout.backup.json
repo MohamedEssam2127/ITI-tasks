@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\iti\\iti_tasks\\c#\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\iti\\iti_tasks\\c#\\lab4\\lab4\\lab4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\lab4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\iti\\iti_tasks\\c#\\lab4\\lab4\\lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab4",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\lab4\\lab4\\lab4.csproj",
+              "RelativeDocumentMoniker": "lab4\\lab4.csproj",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\lab4\\lab4\\lab4.csproj",
+              "RelativeToolTip": "lab4\\lab4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T19:55:42.763Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -30,13 +51,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab4",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\lab4\\lab4\\lab4.csproj",
+              "RelativeDocumentMoniker": "lab4\\lab4.csproj",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\lab4\\lab4\\lab4.csproj",
+              "RelativeToolTip": "lab4\\lab4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T19:55:56.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\lab4\\lab4\\Program.cs",
               "RelativeDocumentMoniker": "lab4\\Program.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\lab4\\lab4\\Program.cs*",
-              "RelativeToolTip": "lab4\\Program.cs*",
-              "ViewState": "AgIAANYBAAAAAAAAAADwv9sBAAA3AAAAAAAAAA==",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\lab4\\lab4\\Program.cs",
+              "RelativeToolTip": "lab4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-22T07:26:07.507Z",
               "EditorCaption": ""

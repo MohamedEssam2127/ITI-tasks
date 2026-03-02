@@ -13,3 +13,5 @@ D:\ITI\ITI_tasks\C#\lab4\lab4\obj\Debug\net10.0\refint\lab4.dll
 D:\ITI\ITI_tasks\C#\lab4\lab4\obj\Debug\net10.0\lab4.pdb
 D:\ITI\ITI_tasks\C#\lab4\lab4\obj\Debug\net10.0\lab4.genruntimeconfig.cache
 D:\ITI\ITI_tasks\C#\lab4\lab4\obj\Debug\net10.0\ref\lab4.dll
+D:\ITI\ITI_tasks\C#\lab4\lab4\bin\Debug\net10.0\lab4.xml
+D:\ITI\ITI_tasks\C#\lab4\lab4\obj\Debug\net10.0\lab4.xml

@@ -1,6 +1,8 @@
 ﻿namespace Lab4
 {
-
+    /// <summary>
+    /// Represents an Employee with an id, security level, salary, hire date, and gender.
+    /// </summary>
     struct Employee
     {
         int id;
@@ -89,8 +91,10 @@
         }
 
     }
-
-    struct HiringDate
+    /// <summary>
+    /// Represents the hiring date structure  of Day, Month, and Year.
+    /// </summary>
+    struct HiringDate 
     {
         int day;
         int month;
@@ -162,15 +166,31 @@
             return $"{day}/{month}/{year}";
         }
     }
+
+    /// <summary>
+    /// Defines the gender of an employee.
+    /// </summary>
     enum Gender
     {
+        /// <summary>male</summary>
         M,
+        /// <summaryfemale</summary>
         F
     }
     [Flags]
+    /// <summary>
+    /// Represents security levels using a byte-based bitwise flag.
+    /// </summary>
     enum SECURITY : byte
     {
-        guest = 0b_0000_0001, Developer = 0b_0000_0010, secretary = 0b_0000_0100, DBA = 0b_0000_1000
+        /// <summary>Basic access level</summary>
+        guest = 0b_0000_0001,
+        /// <summary>Developer access level</summary>
+        Developer = 0b_0000_0010,
+        /// <summary>Secretary access level</summary>
+        secretary = 0b_0000_0100,
+        /// <summary>Database Administrator access level</summary>
+        DBA = 0b_0000_1000
     }
 
     class EmployeeSearch {
@@ -307,6 +327,42 @@
 
     internal class Program
     {
+
+        static void sortByHireDate(Employee[] arr)
+        {
+            for (int i = 0; i < arr.Length - 1; i++)
+            {
+                for (int j = 0; j < arr.Length - i - 1; j++)
+                {
+                    if (IsLaterDate(arr[j].HireDate, arr[j + 1].HireDate))
+                    {
+                        Employee temp = arr[j];
+                        arr[j] = arr[j + 1];
+                        arr[j + 1] = temp;
+                    }
+                }
+            }
+        }
+
+        static bool IsLaterDate(HiringDate d1, HiringDate d2)
+        {
+            if (d1.Year > d2.Year) return true;
+            if (d1.Year < d2.Year) return false;
+
+            if (d1.Month > d2.Month) return true;
+            if (d1.Month < d2.Month) return false;
+
+            return d1.Day > d2.Day;
+        }
+
+        static void PrintArray(Employee[] arr)
+        {
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.WriteLine(arr[i]);
+                Console.WriteLine("---------------------");
+            }
+        }
         static void Main(string[] args)
         {
             Employee[] EmpArr = new Employee[3];
@@ -319,7 +375,7 @@
             );
 
             EmpArr[1] = new Employee(2, SECURITY.guest, 5_000,
-                 new HiringDate(1, 1, 2020),
+                 new HiringDate(1, 1, 2025),
                 Gender.F , "sara"
             );
             EmpArr[2] = new Employee(
@@ -469,29 +525,38 @@
             //}
 
 
-            EmployeeSearch search = new EmployeeSearch(EmpArr);
+            Console.WriteLine("------------ BEFORE SORTING ------------");
+            PrintArray(EmpArr);
 
-            Console.WriteLine("search[-1]");
-            Console.WriteLine(search[-1]);
-            Console.WriteLine("---------------------");
-            Console.WriteLine("search[2]");
-            Console.WriteLine(search[2]);
-            Console.WriteLine("---------------------");
-            Console.WriteLine("search[ sara ]");
+            sortByHireDate(EmpArr);
+
+            Console.WriteLine("\n------------ AFTER SORTING ------------");
+            PrintArray(EmpArr);
+
+
+            //EmployeeSearch search = new EmployeeSearch(EmpArr);
+
+            //Console.WriteLine("search[-1]");
+            //Console.WriteLine(search[-1]);
+            //Console.WriteLine("---------------------");
+            //Console.WriteLine("search[2]");
+            //Console.WriteLine(search[2]);
+            //Console.WriteLine("---------------------");
+            //Console.WriteLine("search[ sara ]");
             
-            var employeesByName = search["sara"];
-            foreach (var e in employeesByName)
-            {
-                Console.WriteLine(e);
-                Console.WriteLine("---------------------");
-            }
-            Console.WriteLine("search[1/1/2020]");
-            var employeesByDate = search[new HiringDate(1, 1, 2020)];
-            foreach (var e in employeesByDate)
-            {
-                Console.WriteLine(e);
-                Console.WriteLine("---------------------");
-            }
+            //var employeesByName = search["sara"];
+            //foreach (var e in employeesByName)
+            //{
+            //    Console.WriteLine(e);
+            //    Console.WriteLine("---------------------");
+            //}
+            //Console.WriteLine("search[1/1/2020]");
+            //var employeesByDate = search[new HiringDate(1, 1, 2020)];
+            //foreach (var e in employeesByDate)
+            //{
+            //    Console.WriteLine(e);
+            //    Console.WriteLine("---------------------");
+            //}
 
         }
 
