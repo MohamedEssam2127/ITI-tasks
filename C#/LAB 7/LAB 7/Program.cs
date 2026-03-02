@@ -1,8 +1,9 @@
-﻿using System;
-using LAB_7.Answers;
+﻿using LAB_7.Answers;
 using LAB_7.Core;
 using LAB_7.Exam;
 using LAB_7.Question;
+using LAB_7.Questions;
+using System;
 
 namespace LAB_7
 {
@@ -24,14 +25,16 @@ namespace LAB_7
 
             #region Questions Setup
             Answer tfCorrect = new Answer(1, "True");
-            practiceExam.Questions[0] = new TrueFalseQuestion("Is C# strongly typed?", 10, tfCorrect);
+            TrueFalseQuestion q1 = new TrueFalseQuestion("Is C# strongly typed?", 10, tfCorrect);
+            practiceExam.Questions[0] = q1;
 
             AnswerList mcOptions = new AnswerList(3);
             Answer mcCorrect = new Answer(2, "Object");
             mcOptions.Add(new Answer(1, "String"));
             mcOptions.Add(mcCorrect);
             mcOptions.Add(new Answer(3, "Int"));
-            practiceExam.Questions[1] = new ChooseOneQuestion("What is the base class for all types?", 10, mcOptions, mcCorrect);
+            ChooseOneQuestion q2 = new ChooseOneQuestion("What is the base class for all types?", 10, mcOptions, mcCorrect);
+            practiceExam.Questions[1] = q2;
 
             AnswerList allOptions = new AnswerList(5);
             allOptions.Add(new Answer(1, "Interface"));
@@ -40,11 +43,17 @@ namespace LAB_7
             allOptions.Add(new Answer(4, "Static Class"));
             allOptions.Add(new Answer(5, "Private Class"));
             Answer[] allCorrectAnswers = { allOptions[0], allOptions[2] };
-            practiceExam.Questions[2] = new ChooseAllQuestion("Which of these can be used for abstraction?", 20, allOptions, allCorrectAnswers);
+            ChooseAllQuestion q3 = new ChooseAllQuestion("Which of these can be used for abstraction?", 20, allOptions, allCorrectAnswers);
+            practiceExam.Questions[2] = q3;
 
+            QuestionList myList = new QuestionList("Questions.txt");
+            myList.Add(q1);
+            myList.Add(q2);
+            myList.Add(q3);
+            
             #endregion
 
-           
+
             for (int i = 0; i < 3; i++) finalExam.Questions[i] = practiceExam.Questions[i];
             #endregion
 
