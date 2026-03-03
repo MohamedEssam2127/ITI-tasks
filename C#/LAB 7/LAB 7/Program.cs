@@ -9,6 +9,7 @@ namespace LAB_7
 {
     internal class Program
     {
+       
         static void Main(string[] args)
         {
             #region Subject Setup
