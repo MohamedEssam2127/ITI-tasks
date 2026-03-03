@@ -16,8 +16,8 @@ namespace LAB_7.Question
         protected Question(string header, string body, int marks, AnswerList answers, Answer[] correctAnswers)
         {
             if (marks <= 0) throw new ArgumentException("Marks must be > 0");
-            Header = header ?? throw new ArgumentNullException(nameof(header));
-            Body = body ?? throw new ArgumentNullException(nameof(body));
+            Header = header ?? throw new ArgumentNullException("header");
+            Body = body ?? throw new ArgumentNullException("body");
 
             Marks = marks;
             Answers = answers;

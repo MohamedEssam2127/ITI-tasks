@@ -24,11 +24,7 @@ namespace LAB_7.Answers
         {
             if (answer == null) throw new ArgumentNullException(nameof(answer));
 
-            //for (int i = 0; i < count; i++)
-            //    if (answers[i].Equals(answer))
-            //        throw new InvalidOperationException("Duplicate Answer Id");
-            //if (count >= answers.Length)
-            //    throw new InvalidOperationException("AnswerList is full");
+            
 
             answers[count++] = answer;
         }

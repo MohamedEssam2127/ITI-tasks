@@ -118,11 +118,13 @@ namespace LAB_7.Exam
                 {
                     Console.Write("Your Answer(s): ");
                     Answer[] ans = QuestionAnswerDictionary[q];
-                    for (int j = 0; j < ans.Length; j++) Console.Write(ans[j].Text + (j < ans.Length - 1 ? ", " : ""));
+                    for (int j = 0; j < ans.Length; j++)
+                        Console.Write(ans[j].Text + (j < ans.Length - 1 ? ", " : ""));
                     Console.WriteLine();
                 }
                 Console.Write("Correct Answer(s): ");
-                for (int j = 0; j < q.CorrectAnswers.Length; j++) Console.Write(q.CorrectAnswers[j].Text + (j < q.CorrectAnswers.Length - 1 ? ", " : ""));
+                for (int j = 0; j < q.CorrectAnswers.Length; j++) 
+                    Console.Write(q.CorrectAnswers[j].Text + (j < q.CorrectAnswers.Length - 1 ? ", " : ""));
                 Console.WriteLine("\n-------------------------");
             }
             Console.WriteLine("Final Grade: " + score + " / " + totalGrade);
