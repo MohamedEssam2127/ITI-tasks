@@ -4,7 +4,7 @@ using System.Text;
 
 namespace lab10
 {
-    class Department
+      public class Department
     {
         public int DeptID { get; set; }
         public string DeptName { get; set; }
@@ -20,6 +20,7 @@ namespace lab10
             if (sender is Employee emp)
             {
                 Staff.Remove(emp);
+                emp.EmployeeLayOff -= RemoveStaff;
                 Console.WriteLine($"Employee {emp.EmployeeID} removed from Department {DeptName} due to {e.Cause}");
             }
 

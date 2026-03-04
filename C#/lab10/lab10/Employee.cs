@@ -4,7 +4,7 @@ using System.Text;
 
 namespace lab10
 {
-    class Employee
+   public  class Employee
     {
         public event EventHandler<EmployeeLayOffEventArgs> EmployeeLayOff;
 
@@ -19,7 +19,7 @@ namespace lab10
 
         public int VacationStock { get; set; }
 
-        public bool RequestVacation(DateTime From, DateTime To)
+        public virtual  bool RequestVacation(DateTime From, DateTime To)
         {
             int temp = (To - From).Days;
             if (temp > 0) {
@@ -34,7 +34,7 @@ namespace lab10
             return false;
         }
 
-        public void EndOfYearOperation()
+        public  virtual void EndOfYearOperation()
         {
             int age = DateTime.Now.Year - BirthDate.Year;
 
@@ -57,4 +57,10 @@ namespace lab10
         FailedToAchieveTarget,
         Resigned
     }
+
+
+
 }
+
+
+

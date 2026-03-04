@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\ITI\\ITI_tasks\\C#\\lab10\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E4EB1F7F-D3C5-166F-84E1-15EDA25459A8}|lab10\\lab10.csproj|d:\\iti\\iti_tasks\\c#\\lab10\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EB1F7F-D3C5-166F-84E1-15EDA25459A8}|lab10\\lab10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4EB1F7F-D3C5-166F-84E1-15EDA25459A8}|lab10\\lab10.csproj|d:\\iti\\iti_tasks\\c#\\lab10\\lab10\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4EB1F7F-D3C5-166F-84E1-15EDA25459A8}|lab10\\lab10.csproj|solutionrelative:lab10\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4EB1F7F-D3C5-166F-84E1-15EDA25459A8}|lab10\\lab10.csproj|d:\\iti\\iti_tasks\\c#\\lab10\\lab10\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EB1F7F-D3C5-166F-84E1-15EDA25459A8}|lab10\\lab10.csproj|solutionrelative:lab10\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4EB1F7F-D3C5-166F-84E1-15EDA25459A8}|lab10\\lab10.csproj|d:\\iti\\iti_tasks\\c#\\lab10\\lab10\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EB1F7F-D3C5-166F-84E1-15EDA25459A8}|lab10\\lab10.csproj|solutionrelative:lab10\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4EB1F7F-D3C5-166F-84E1-15EDA25459A8}|lab10\\lab10.csproj|d:\\iti\\iti_tasks\\c#\\lab10\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EB1F7F-D3C5-166F-84E1-15EDA25459A8}|lab10\\lab10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4EB1F7F-D3C5-166F-84E1-15EDA25459A8}|lab10\\lab10.csproj|d:\\iti\\iti_tasks\\c#\\lab10\\lab10\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EB1F7F-D3C5-166F-84E1-15EDA25459A8}|lab10\\lab10.csproj|solutionrelative:lab10\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EB1F7F-D3C5-166F-84E1-15EDA25459A8}|lab10\\lab10.csproj|d:\\iti\\iti_tasks\\c#\\lab10\\lab10\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EB1F7F-D3C5-166F-84E1-15EDA25459A8}|lab10\\lab10.csproj|solutionrelative:lab10\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,39 +46,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "SalesPerson.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\lab10\\lab10\\SalesPerson.cs",
+              "RelativeDocumentMoniker": "lab10\\SalesPerson.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\lab10\\lab10\\SalesPerson.cs",
+              "RelativeToolTip": "lab10\\SalesPerson.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:49:46.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Club.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\lab10\\lab10\\Club.cs",
+              "RelativeDocumentMoniker": "lab10\\Club.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\lab10\\lab10\\Club.cs",
+              "RelativeToolTip": "lab10\\Club.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:27:50.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\lab10\\lab10\\Department.cs",
               "RelativeDocumentMoniker": "lab10\\Department.cs",
               "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\lab10\\lab10\\Department.cs",
               "RelativeToolTip": "lab10\\Department.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T22:54:32.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\lab10\\lab10\\Employee.cs",
               "RelativeDocumentMoniker": "lab10\\Employee.cs",
               "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\lab10\\lab10\\Employee.cs",
               "RelativeToolTip": "lab10\\Employee.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T22:28:27.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\lab10\\lab10\\Program.cs",
               "RelativeDocumentMoniker": "lab10\\Program.cs",
               "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\lab10\\lab10\\Program.cs",
               "RelativeToolTip": "lab10\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T19:00:56.193Z",
               "EditorCaption": ""
