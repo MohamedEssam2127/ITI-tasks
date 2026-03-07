@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using LAB_7.Exam;
 
 namespace LAB_7.Core
 {
@@ -14,32 +12,27 @@ namespace LAB_7.Core
             Id = id;
             Name = name;
         }
+        public void OnExamStarted(object sender, ExamEventArgs e)
+        {
+            Console.WriteLine($"Notification for {Name}: The exam for {e.Subject.Name} has started!");
+        }
     }
+
     public class Subject
     {
         public string Name { get; set; }
-        public Student[] EnrolledStudents { get; set; }
-        private int _count;
+        public List<Student> EnrolledStudents { get; set; }
 
         public Subject(string name, int capacity)
         {
             Name = name;
-            EnrolledStudents = new Student[capacity];
-            _count = 0;
+            EnrolledStudents = new List<Student>(capacity);
         }
 
         public void Enroll(Student student)
         {
-            if (student == null)
-            {
-                throw new ArgumentNullException(nameof(student));
-            }
-
-            if (_count < EnrolledStudents.Length)
-            {
-                EnrolledStudents[_count] = student;
-                _count++;
-            }
+            if (student == null) throw new ArgumentNullException(nameof(student));
+            EnrolledStudents.Add(student);
         }
     }
 }

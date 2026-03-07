@@ -64,3 +64,25 @@ Answers:
   Static Class
   Private Class
 --------------------------
+True/False Question	Marks: 10
+Is C# strongly typed?
+Answers:
+  True
+  False
+--------------------------
+Choose One	Marks: 10
+What is the base class for all types?
+Answers:
+  String
+  Object
+  Int
+--------------------------
+Choose all possible answers 	Marks: 20
+Which of these can be used for abstraction?
+Answers:
+  Interface
+  Sealed Class
+  Abstract Class
+  Static Class
+  Private Class
+--------------------------

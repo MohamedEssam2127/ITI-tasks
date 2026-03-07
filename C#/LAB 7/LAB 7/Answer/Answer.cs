@@ -28,6 +28,10 @@ namespace LAB_7.Answers
             return false ;
         }
 
+        public override int GetHashCode()
+        {
+            return Id.GetHashCode();
+        }
         public int CompareTo(Answer other)
         {
             if (other == null) return 1;

@@ -1,7 +1,6 @@
 ﻿using LAB_7.Answers;
 using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace LAB_7.Question
 {
@@ -11,9 +10,9 @@ namespace LAB_7.Question
         public string Body { get; set; }
         public int Marks { get; set; }
         public AnswerList Answers { get; set; }
-        public Answer[] CorrectAnswers { get; set; }
+        public List<Answer> CorrectAnswers { get; set; }
 
-        protected Question(string header, string body, int marks, AnswerList answers, Answer[] correctAnswers)
+        protected Question(string header, string body, int marks, AnswerList answers, List<Answer> correctAnswers)
         {
             if (marks <= 0) throw new ArgumentException("Marks must be > 0");
             Header = header ?? throw new ArgumentNullException("header");
@@ -25,7 +24,7 @@ namespace LAB_7.Question
         }
 
         public abstract void Display();
-        public abstract bool CheckAnswer(Answer[] studentAnswers);
+        public abstract bool CheckAnswer(List<Answer> studentAnswers);
 
         public override string ToString() => $"{Header}\tMarks: {Marks}\n{Body}";
 
@@ -35,6 +34,10 @@ namespace LAB_7.Question
                 return Body == q.Body && Header == q.Header;
             return false;
         }
-    }
 
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(Header, Body);
+        }
+    }
 }

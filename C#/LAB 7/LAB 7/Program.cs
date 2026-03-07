@@ -4,18 +4,18 @@ using LAB_7.Exam;
 using LAB_7.Question;
 using LAB_7.Questions;
 using System;
+using System.Collections.Generic;
 
 namespace LAB_7
 {
     internal class Program
     {
-       
         static void Main(string[] args)
         {
             #region Subject Setup
             Subject subject = new Subject("Advanced Programming", 5);
             Student student1 = new Student(1, "Ahmed");
-            Student student2 = new Student(2,"Mo");
+            Student student2 = new Student(2, "Mo");
             subject.Enroll(student1);
             subject.Enroll(student2);
             #endregion
@@ -27,7 +27,7 @@ namespace LAB_7
             #region Questions Setup
             Answer tfCorrect = new Answer(1, "True");
             TrueFalseQuestion q1 = new TrueFalseQuestion("Is C# strongly typed?", 10, tfCorrect);
-            practiceExam.Questions[0] = q1;
+            practiceExam.Questions.Add(q1);
 
             AnswerList mcOptions = new AnswerList(3);
             Answer mcCorrect = new Answer(2, "Object");
@@ -35,7 +35,7 @@ namespace LAB_7
             mcOptions.Add(mcCorrect);
             mcOptions.Add(new Answer(3, "Int"));
             ChooseOneQuestion q2 = new ChooseOneQuestion("What is the base class for all types?", 10, mcOptions, mcCorrect);
-            practiceExam.Questions[1] = q2;
+            practiceExam.Questions.Add(q2);
 
             AnswerList allOptions = new AnswerList(5);
             allOptions.Add(new Answer(1, "Interface"));
@@ -43,21 +43,24 @@ namespace LAB_7
             allOptions.Add(new Answer(3, "Abstract Class"));
             allOptions.Add(new Answer(4, "Static Class"));
             allOptions.Add(new Answer(5, "Private Class"));
-            Answer[] allCorrectAnswers = { allOptions[0], allOptions[2] };
+            List<Answer> allCorrectAnswers = new List<Answer> { allOptions[0], allOptions[2] };
             ChooseAllQuestion q3 = new ChooseAllQuestion("Which of these can be used for abstraction?", 20, allOptions, allCorrectAnswers);
-            practiceExam.Questions[2] = q3;
+            practiceExam.Questions.Add(q3);
 
             QuestionList myList = new QuestionList("Questions.txt");
             myList.Add(q1);
             myList.Add(q2);
             myList.Add(q3);
-            
+
+            foreach (var student in subject.EnrolledStudents)
+            {
+                practiceExam.ExamStarted += student.OnExamStarted;
+                finalExam.ExamStarted += student.OnExamStarted;
+            }
             #endregion
 
-
-            for (int i = 0; i < 3; i++) finalExam.Questions[i] = practiceExam.Questions[i];
+            finalExam.Questions.AddRange(practiceExam.Questions);
             #endregion
-
 
             Console.WriteLine("Select Exam Type (1 - Practice, 2 - Final):");
             Exam.Exam selectedExam;
@@ -73,15 +76,15 @@ namespace LAB_7
             Console.Clear();
             Console.WriteLine("Exam Status: " + selectedExam.Mode + "\n----------------------------------");
 
-            for (int i = 0; i < selectedExam.Questions.Length; i++)
+            foreach (var q in selectedExam.Questions)
             {
-                Question.Question q = selectedExam.Questions[i];
                 if (q == null) continue;
                 q.Display();
 
+                List<Answer> studentSelected = new List<Answer>();
+
                 if (q is ChooseAllQuestion)
                 {
-                    Answer[] studentSelected = null;
                     while (true)
                     {
                         Console.WriteLine("Enter IDs separated by comma (e.g., 1,3):");
@@ -89,52 +92,49 @@ namespace LAB_7
                         if (string.IsNullOrWhiteSpace(input)) continue;
 
                         string[] parts = input.Split(',');
-                        Answer[] temp = new Answer[parts.Length];
-                        int count = 0; bool hasError = false;
+                        bool hasError = false;
+                        studentSelected.Clear();
 
-                        for (int j = 0; j < parts.Length; j++)
+                        foreach (var part in parts)
                         {
-                            int id;
-                            if (int.TryParse(parts[j].Trim(), out id))
+                            if (int.TryParse(part.Trim(), out int id))
                             {
                                 try
                                 {
                                     Answer found = q.Answers.GetById(id);
-                                    bool isDup = false;
-                                    for (int k = 0; k < count; k++) if (temp[k].Id == found.Id) isDup = true;
-                                    if (!isDup) temp[count++] = found;
+                                    if (!studentSelected.Contains(found))
+                                    {
+                                        studentSelected.Add(found);
+                                    }
                                 }
                                 catch { hasError = true; break; }
                             }
                             else { hasError = true; break; }
                         }
 
-                        if (!hasError && count > 0)
-                        {
-                            studentSelected = new Answer[count];
-                            for (int x = 0; x < count; x++) studentSelected[x] = temp[x];
-                            break;
-                        }
+                        if (!hasError && studentSelected.Count > 0) break;
                         Console.WriteLine("Invalid IDs or format. Try again.");
                     }
-                    selectedExam.QuestionAnswerDictionary.Add(q, studentSelected);
                 }
                 else
                 {
-                    Answer studentAnswer = null;
                     while (true)
                     {
                         Console.Write("Enter Answer ID: ");
-                        int id;
-                        if (int.TryParse(Console.ReadLine(), out id))
+                        if (int.TryParse(Console.ReadLine(), out int id))
                         {
-                            try { studentAnswer = q.Answers.GetById(id); break; }
+                            try
+                            {
+                                studentSelected.Add(q.Answers.GetById(id));
+                                break;
+                            }
                             catch (Exception ex) { Console.WriteLine(ex.Message); }
                         }
                         else { Console.WriteLine("Please enter a valid number."); }
                     }
-                    selectedExam.QuestionAnswerDictionary.Add(q, new Answer[] { studentAnswer });
                 }
+
+                selectedExam.QuestionAnswerDictionary.Add(q, studentSelected);
                 Console.WriteLine();
             }
 

@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|d:\\iti\\iti_tasks\\c#\\lab 7\\lab 7\\answer\\answerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|solutionrelative:lab 7\\answer\\answerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|d:\\iti\\iti_tasks\\c#\\lab 7\\lab 7\\core\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|solutionrelative:lab 7\\core\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|d:\\iti\\iti_tasks\\c#\\lab 7\\lab 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|solutionrelative:lab 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|d:\\iti\\iti_tasks\\c#\\lab 7\\lab 7\\question\\chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|solutionrelative:lab 7\\question\\chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|d:\\iti\\iti_tasks\\c#\\lab 7\\lab 7\\question\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|solutionrelative:lab 7\\question\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|d:\\iti\\iti_tasks\\c#\\lab 7\\lab 7\\question\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|solutionrelative:lab 7\\question\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|d:\\iti\\iti_tasks\\c#\\lab 7\\lab 7\\question\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|solutionrelative:lab 7\\question\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|d:\\iti\\iti_tasks\\c#\\lab 7\\lab 7\\core\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|solutionrelative:lab 7\\core\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{408DDFB2-0FD5-BC93-40A8-6E3AA0C3ED8D}|LAB 7\\LAB 7.csproj|d:\\iti\\iti_tasks\\c#\\lab 7\\lab 7\\exam\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Core\\Repository.cs",
+              "RelativeDocumentMoniker": "LAB 7\\Core\\Repository.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Core\\Repository.cs",
+              "RelativeToolTip": "LAB 7\\Core\\Repository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:00:12.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Core\\Student.cs",
+              "RelativeDocumentMoniker": "LAB 7\\Core\\Student.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Core\\Student.cs",
+              "RelativeToolTip": "LAB 7\\Core\\Student.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T21:54:26.808Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -54,67 +68,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChooseAllQuestion.cs",
-              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Question\\ChooseAllQuestion.cs",
-              "RelativeDocumentMoniker": "LAB 7\\Question\\ChooseAllQuestion.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Question\\ChooseAllQuestion.cs",
-              "RelativeToolTip": "LAB 7\\Question\\ChooseAllQuestion.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T18:43:54.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ChooseOneQuestion.cs",
-              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Question\\ChooseOneQuestion.cs",
-              "RelativeDocumentMoniker": "LAB 7\\Question\\ChooseOneQuestion.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Question\\ChooseOneQuestion.cs",
-              "RelativeToolTip": "LAB 7\\Question\\ChooseOneQuestion.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Exams.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Exam\\Exams.cs",
+              "RelativeDocumentMoniker": "LAB 7\\Exam\\Exams.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Exam\\Exams.cs",
+              "RelativeToolTip": "LAB 7\\Exam\\Exams.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwBEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T18:43:51.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Question.cs",
-              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Question\\Question.cs",
-              "RelativeDocumentMoniker": "LAB 7\\Question\\Question.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Question\\Question.cs",
-              "RelativeToolTip": "LAB 7\\Question\\Question.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswB0AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T10:32:24.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QuestionList.cs",
-              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Question\\QuestionList.cs",
-              "RelativeDocumentMoniker": "LAB 7\\Question\\QuestionList.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Question\\QuestionList.cs",
-              "RelativeToolTip": "LAB 7\\Question\\QuestionList.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBgAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T19:17:26.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AnswerList.cs",
-              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Answer\\AnswerList.cs",
-              "RelativeDocumentMoniker": "LAB 7\\Answer\\AnswerList.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Answer\\AnswerList.cs",
-              "RelativeToolTip": "LAB 7\\Answer\\AnswerList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T11:50:37.391Z",
+              "WhenOpened": "2026-02-28T13:41:51.441Z",
               "EditorCaption": ""
             },
             {
@@ -125,22 +87,9 @@
               "RelativeDocumentMoniker": "LAB 7\\Program.cs",
               "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Program.cs",
               "RelativeToolTip": "LAB 7\\Program.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAQwFwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwDoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-28T21:46:18.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Exams.cs",
-              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Exam\\Exams.cs",
-              "RelativeDocumentMoniker": "LAB 7\\Exam\\Exams.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\LAB 7\\LAB 7\\Exam\\Exams.cs",
-              "RelativeToolTip": "LAB 7\\Exam\\Exams.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAwwKMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T13:41:51.441Z",
               "EditorCaption": ""
             }
           ]
