@@ -1,0 +1,15 @@
+D:\ITI\ITI_tasks\C#\lab11\lab11\bin\Debug\net10.0\lab11.exe
+D:\ITI\ITI_tasks\C#\lab11\lab11\bin\Debug\net10.0\lab11.deps.json
+D:\ITI\ITI_tasks\C#\lab11\lab11\bin\Debug\net10.0\lab11.runtimeconfig.json
+D:\ITI\ITI_tasks\C#\lab11\lab11\bin\Debug\net10.0\lab11.dll
+D:\ITI\ITI_tasks\C#\lab11\lab11\bin\Debug\net10.0\lab11.pdb
+D:\ITI\ITI_tasks\C#\lab11\lab11\obj\Debug\net10.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI_tasks\C#\lab11\lab11\obj\Debug\net10.0\lab11.AssemblyInfoInputs.cache
+D:\ITI\ITI_tasks\C#\lab11\lab11\obj\Debug\net10.0\lab11.AssemblyInfo.cs
+D:\ITI\ITI_tasks\C#\lab11\lab11\obj\Debug\net10.0\lab11.csproj.CoreCompileInputs.cache
+D:\ITI\ITI_tasks\C#\lab11\lab11\obj\Debug\net10.0\lab11.sourcelink.json
+D:\ITI\ITI_tasks\C#\lab11\lab11\obj\Debug\net10.0\lab11.dll
+D:\ITI\ITI_tasks\C#\lab11\lab11\obj\Debug\net10.0\refint\lab11.dll
+D:\ITI\ITI_tasks\C#\lab11\lab11\obj\Debug\net10.0\lab11.pdb
+D:\ITI\ITI_tasks\C#\lab11\lab11\obj\Debug\net10.0\lab11.genruntimeconfig.cache
+D:\ITI\ITI_tasks\C#\lab11\lab11\obj\Debug\net10.0\ref\lab11.dll
