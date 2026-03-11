@@ -1,0 +1,185 @@
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.exe
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.deps.json
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.runtimeconfig.json
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.pdb
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13___WinForms.Form1.resources
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.csproj.GenerateResource.cache
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.AssemblyInfoInputs.cache
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.AssemblyInfo.cs
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.csproj.CoreCompileInputs.cache
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\refint\D13 - WinForms.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.pdb
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.genruntimeconfig.cache
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\ref\D13 - WinForms.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Azure.Core.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Azure.Identity.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\System.ClientModel.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\System.Memory.Data.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.csproj.AssemblyReference.cache
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - Wi.05C4E68F.Up2Date
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.dll.config
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13___WinForms.frmDataReader.resources
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13___WinForms.frmProductsGridView.resources
+C:\Users\iti\Desktop\SD46\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13___WinForms.frmProductsDetailedView.resources
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.exe
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.dll.config
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.deps.json
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.runtimeconfig.json
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.pdb
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.csproj.AssemblyReference.cache
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13___WinForms.Form1.resources
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13___WinForms.frmDataReader.resources
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13___WinForms.frmProductsDetailedView.resources
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13___WinForms.frmProductsGridView.resources
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.csproj.GenerateResource.cache
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.AssemblyInfoInputs.cache
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.AssemblyInfo.cs
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.csproj.CoreCompileInputs.cache
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - Wi.05C4E68F.Up2Date
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\refint\D13 - WinForms.dll
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.pdb
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.genruntimeconfig.cache
+D:\ITI\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\ref\D13 - WinForms.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.exe
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.dll.config
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.deps.json
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.runtimeconfig.json
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\D13 - WinForms.pdb
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.csproj.AssemblyReference.cache
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13___WinForms.frmProductsDetailedView.resources
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13___WinForms.frmProductsGridView.resources
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.csproj.GenerateResource.cache
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.AssemblyInfoInputs.cache
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.AssemblyInfo.cs
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.csproj.CoreCompileInputs.cache
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.sourcelink.json
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - Wi.05C4E68F.Up2Date
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\refint\D13 - WinForms.dll
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.pdb
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\D13 - WinForms.genruntimeconfig.cache
+D:\ITI\ITI_tasks\C#\D13 - WinForms\D13 - WinForms\obj\Debug\net10.0-windows\ref\D13 - WinForms.dll

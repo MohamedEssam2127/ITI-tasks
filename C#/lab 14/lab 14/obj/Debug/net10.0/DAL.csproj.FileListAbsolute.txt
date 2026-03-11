@@ -1,0 +1,14 @@
+D:\ITI\ITI_tasks\C#\lab 14\lab 14\bin\Debug\net10.0\DAL.dll.config
+D:\ITI\ITI_tasks\C#\lab 14\lab 14\bin\Debug\net10.0\DAL.deps.json
+D:\ITI\ITI_tasks\C#\lab 14\lab 14\bin\Debug\net10.0\DAL.dll
+D:\ITI\ITI_tasks\C#\lab 14\lab 14\bin\Debug\net10.0\DAL.pdb
+D:\ITI\ITI_tasks\C#\lab 14\lab 14\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
+D:\ITI\ITI_tasks\C#\lab 14\lab 14\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI_tasks\C#\lab 14\lab 14\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
+D:\ITI\ITI_tasks\C#\lab 14\lab 14\obj\Debug\net10.0\DAL.AssemblyInfo.cs
+D:\ITI\ITI_tasks\C#\lab 14\lab 14\obj\Debug\net10.0\DAL.csproj.CoreCompileInputs.cache
+D:\ITI\ITI_tasks\C#\lab 14\lab 14\obj\Debug\net10.0\DAL.sourcelink.json
+D:\ITI\ITI_tasks\C#\lab 14\lab 14\obj\Debug\net10.0\DAL.dll
+D:\ITI\ITI_tasks\C#\lab 14\lab 14\obj\Debug\net10.0\refint\DAL.dll
+D:\ITI\ITI_tasks\C#\lab 14\lab 14\obj\Debug\net10.0\DAL.pdb
+D:\ITI\ITI_tasks\C#\lab 14\lab 14\obj\Debug\net10.0\ref\DAL.dll

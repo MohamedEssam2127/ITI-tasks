@@ -51,7 +51,7 @@ namespace LAB_7
             myList.Add(q1);
             myList.Add(q2);
             myList.Add(q3);
-
+            // ============= Here =============
             foreach (var student in subject.EnrolledStudents)
             {
                 practiceExam.ExamStarted += student.OnExamStarted;
@@ -73,6 +73,7 @@ namespace LAB_7
             }
 
             selectedExam.Start();
+            Console.ReadKey();
             Console.Clear();
             Console.WriteLine("Exam Status: " + selectedExam.Mode + "\n----------------------------------");
 

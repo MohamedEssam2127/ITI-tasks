@@ -1,0 +1,17 @@
+D:\ITI\ITI_tasks\C#\lab 14\BLL\bin\Debug\net10.0\BLL.deps.json
+D:\ITI\ITI_tasks\C#\lab 14\BLL\bin\Debug\net10.0\BLL.dll
+D:\ITI\ITI_tasks\C#\lab 14\BLL\bin\Debug\net10.0\BLL.pdb
+D:\ITI\ITI_tasks\C#\lab 14\BLL\bin\Debug\net10.0\DAL.dll
+D:\ITI\ITI_tasks\C#\lab 14\BLL\bin\Debug\net10.0\DAL.pdb
+D:\ITI\ITI_tasks\C#\lab 14\BLL\bin\Debug\net10.0\DAL.dll.config
+D:\ITI\ITI_tasks\C#\lab 14\BLL\obj\Debug\net10.0\BLL.csproj.AssemblyReference.cache
+D:\ITI\ITI_tasks\C#\lab 14\BLL\obj\Debug\net10.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI_tasks\C#\lab 14\BLL\obj\Debug\net10.0\BLL.AssemblyInfoInputs.cache
+D:\ITI\ITI_tasks\C#\lab 14\BLL\obj\Debug\net10.0\BLL.AssemblyInfo.cs
+D:\ITI\ITI_tasks\C#\lab 14\BLL\obj\Debug\net10.0\BLL.csproj.CoreCompileInputs.cache
+D:\ITI\ITI_tasks\C#\lab 14\BLL\obj\Debug\net10.0\BLL.sourcelink.json
+D:\ITI\ITI_tasks\C#\lab 14\BLL\obj\Debug\net10.0\BLL.csproj.Up2Date
+D:\ITI\ITI_tasks\C#\lab 14\BLL\obj\Debug\net10.0\BLL.dll
+D:\ITI\ITI_tasks\C#\lab 14\BLL\obj\Debug\net10.0\refint\BLL.dll
+D:\ITI\ITI_tasks\C#\lab 14\BLL\obj\Debug\net10.0\BLL.pdb
+D:\ITI\ITI_tasks\C#\lab 14\BLL\obj\Debug\net10.0\ref\BLL.dll

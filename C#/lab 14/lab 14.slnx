@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BLL/BLL.csproj" />
+  <Project Path="frmProductsGridView/frmProductsGridView.csproj" Id="ddf35b1f-e9ab-4059-96e2-fd7a7355d857" />
+  <Project Path="lab 14/DAL.csproj" />
+</Solution>
