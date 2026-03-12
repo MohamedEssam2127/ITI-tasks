@@ -1,0 +1,68 @@
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Lab 16.exe
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Lab 16.deps.json
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Lab 16.runtimeconfig.json
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Lab 16.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Lab 16.pdb
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\obj\Debug\net10.0-windows\Lab 16.csproj.AssemblyReference.cache
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\obj\Debug\net10.0-windows\Lab_16.frmProductsGridView.resources
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\obj\Debug\net10.0-windows\Lab 16.csproj.GenerateResource.cache
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\obj\Debug\net10.0-windows\Lab 16.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\obj\Debug\net10.0-windows\Lab 16.AssemblyInfoInputs.cache
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\obj\Debug\net10.0-windows\Lab 16.AssemblyInfo.cs
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\obj\Debug\net10.0-windows\Lab 16.csproj.CoreCompileInputs.cache
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\obj\Debug\net10.0-windows\Lab 16.sourcelink.json
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\obj\Debug\net10.0-windows\Lab 16.csproj.Up2Date
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\obj\Debug\net10.0-windows\Lab 16.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\obj\Debug\net10.0-windows\refint\Lab 16.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\obj\Debug\net10.0-windows\Lab 16.pdb
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\obj\Debug\net10.0-windows\Lab 16.genruntimeconfig.cache
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\obj\Debug\net10.0-windows\ref\Lab 16.dll
+D:\ITI\ITI_tasks\C#\Lab 16\Lab 16\obj\Debug\net10.0-windows\Lab_16.frmProductsDetailedView.resources

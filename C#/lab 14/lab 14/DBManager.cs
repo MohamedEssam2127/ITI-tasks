@@ -100,7 +100,6 @@ namespace DAL
             }
             return new();
         }
-        public object ExecuteScalar(string SPName, Dictionary<string, object> Parameters) => throw new NotImplementedException();
 
         public DataTable ExecuteDataTable(string SPName)
         {
@@ -120,7 +119,6 @@ namespace DAL
             }
             return dt;
         }
-        public DataTable ExecuteDataTable(string SPName, Dictionary<string, object> Parameters) => throw new NotImplementedException();
 
 
     }
