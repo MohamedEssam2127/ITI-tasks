@@ -1,0 +1,15 @@
+D:\ITI\ITI_tasks\C#\Review\Review\bin\Debug\net10.0\Review.exe
+D:\ITI\ITI_tasks\C#\Review\Review\bin\Debug\net10.0\Review.deps.json
+D:\ITI\ITI_tasks\C#\Review\Review\bin\Debug\net10.0\Review.runtimeconfig.json
+D:\ITI\ITI_tasks\C#\Review\Review\bin\Debug\net10.0\Review.dll
+D:\ITI\ITI_tasks\C#\Review\Review\bin\Debug\net10.0\Review.pdb
+D:\ITI\ITI_tasks\C#\Review\Review\obj\Debug\net10.0\Review.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI_tasks\C#\Review\Review\obj\Debug\net10.0\Review.AssemblyInfoInputs.cache
+D:\ITI\ITI_tasks\C#\Review\Review\obj\Debug\net10.0\Review.AssemblyInfo.cs
+D:\ITI\ITI_tasks\C#\Review\Review\obj\Debug\net10.0\Review.csproj.CoreCompileInputs.cache
+D:\ITI\ITI_tasks\C#\Review\Review\obj\Debug\net10.0\Review.sourcelink.json
+D:\ITI\ITI_tasks\C#\Review\Review\obj\Debug\net10.0\Review.dll
+D:\ITI\ITI_tasks\C#\Review\Review\obj\Debug\net10.0\refint\Review.dll
+D:\ITI\ITI_tasks\C#\Review\Review\obj\Debug\net10.0\Review.pdb
+D:\ITI\ITI_tasks\C#\Review\Review\obj\Debug\net10.0\Review.genruntimeconfig.cache
+D:\ITI\ITI_tasks\C#\Review\Review\obj\Debug\net10.0\ref\Review.dll

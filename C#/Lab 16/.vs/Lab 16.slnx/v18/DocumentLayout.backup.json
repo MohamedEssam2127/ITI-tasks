@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|d:\\iti\\iti_tasks\\c#\\lab 16\\lab 16\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|d:\\iti\\iti_tasks\\c#\\lab 16\\lab 16\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|d:\\iti\\iti_tasks\\c#\\lab 16\\lab 16\\frmproductsdetailedview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\frmproductsdetailedview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|d:\\iti\\iti_tasks\\c#\\lab 16\\lab 16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,24 +11,36 @@
       "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\frmproductsgridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|D:\\ITI\\ITI_tasks\\C#\\Lab 16\\lab 16\\frmproductsgridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\frmproductsgridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|d:\\iti\\iti_tasks\\c#\\lab 16\\lab 16\\frmproductsgridview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\frmproductsgridview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|d:\\iti\\iti_tasks\\c#\\lab 16\\lab 16\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|d:\\iti\\iti_tasks\\c#\\lab 16\\lab 16\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|d:\\iti\\iti_tasks\\c#\\lab 16\\lab 16\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|d:\\iti\\iti_tasks\\c#\\lab 16\\lab 16\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|d:\\iti\\iti_tasks\\c#\\lab 16\\lab 16\\context\\pubscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\context\\pubscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|d:\\iti\\iti_tasks\\c#\\lab 16\\lab 16\\frmproductsdetailedview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\frmproductsdetailedview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|d:\\iti\\iti_tasks\\c#\\lab 16\\lab 16\\frmproductsgridview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\frmproductsgridview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|D:\\ITI\\ITI_tasks\\C#\\Lab 16\\lab 16\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|D:\\ITI\\ITI_tasks\\C#\\Lab 16\\lab 16\\frmproductsgridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEC367B5-BF31-01CF-0CDB-C4B206C7D6BB}|Lab 16\\Lab 16.csproj|solutionrelative:lab 16\\frmproductsgridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,25 +82,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmProductsDetailedView.cs",
-              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsDetailedView.cs",
-              "RelativeDocumentMoniker": "Lab 16\\frmProductsDetailedView.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsDetailedView.cs*",
-              "RelativeToolTip": "Lab 16\\frmProductsDetailedView.cs*",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAcwE0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "Lab 16\\Entities\\Job.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\Entities\\Job.cs",
+              "RelativeToolTip": "Lab 16\\Entities\\Job.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T23:34:35.437Z",
+              "WhenOpened": "2026-03-12T23:03:59.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "frmProductsDetailedView.Designer.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsDetailedView.Designer.cs",
               "RelativeDocumentMoniker": "Lab 16\\frmProductsDetailedView.Designer.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsDetailedView.Designer.cs*",
-              "RelativeToolTip": "Lab 16\\frmProductsDetailedView.Designer.cs*",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsDetailedView.Designer.cs",
+              "RelativeToolTip": "Lab 16\\frmProductsDetailedView.Designer.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAuwBcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T23:31:14.788Z",
@@ -109,104 +109,102 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmProductsDetailedView.cs [Design]",
-              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsDetailedView.cs",
-              "RelativeDocumentMoniker": "Lab 16\\frmProductsDetailedView.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsDetailedView.cs [Design]*",
-              "RelativeToolTip": "Lab 16\\frmProductsDetailedView.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T23:30:40.799Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Job.cs",
-              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\Entities\\Job.cs",
-              "RelativeDocumentMoniker": "Lab 16\\Entities\\Job.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\Entities\\Job.cs",
-              "RelativeToolTip": "Lab 16\\Entities\\Job.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAswB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T23:03:59.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "frmProductsGridView.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsGridView.cs",
               "RelativeDocumentMoniker": "Lab 16\\frmProductsGridView.cs",
               "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsGridView.cs",
               "RelativeToolTip": "Lab 16\\frmProductsGridView.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAuwCkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T12:44:25.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\Program.cs",
               "RelativeDocumentMoniker": "Lab 16\\Program.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\Program.cs",
-              "RelativeToolTip": "Lab 16\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\Program.cs*",
+              "RelativeToolTip": "Lab 16\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T12:50:34.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmProductsGridView.Designer.cs",
-              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsGridView.Designer.cs",
-              "RelativeDocumentMoniker": "Lab 16\\frmProductsGridView.Designer.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsGridView.Designer.cs",
-              "RelativeToolTip": "Lab 16\\frmProductsGridView.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T12:43:32.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "Lab 16\\Entities\\Employee.cs",
               "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\Entities\\Employee.cs",
               "RelativeToolTip": "Lab 16\\Entities\\Employee.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T12:23:25.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "frmProductsDetailedView.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsDetailedView.cs",
+              "RelativeDocumentMoniker": "Lab 16\\frmProductsDetailedView.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsDetailedView.cs",
+              "RelativeToolTip": "Lab 16\\frmProductsDetailedView.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:34:35.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "pubsContext.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\Context\\pubsContext.cs",
               "RelativeDocumentMoniker": "Lab 16\\Context\\pubsContext.cs",
               "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\Context\\pubsContext.cs",
               "RelativeToolTip": "Lab 16\\Context\\pubsContext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAuwBQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T12:21:42.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "frmProductsGridView.Designer.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsGridView.Designer.cs",
+              "RelativeDocumentMoniker": "Lab 16\\frmProductsGridView.Designer.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsGridView.Designer.cs",
+              "RelativeToolTip": "Lab 16\\frmProductsGridView.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:28:13.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmProductsDetailedView.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsDetailedView.cs",
+              "RelativeDocumentMoniker": "Lab 16\\frmProductsDetailedView.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsDetailedView.cs [Design]",
+              "RelativeToolTip": "Lab 16\\frmProductsDetailedView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:30:40.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "frmProductsGridView.cs [Design]",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsGridView.cs",
               "RelativeDocumentMoniker": "Lab 16\\frmProductsGridView.cs",
               "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\Lab 16\\Lab 16\\frmProductsGridView.cs [Design]",
               "RelativeToolTip": "Lab 16\\frmProductsGridView.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T12:03:58.067Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-12T12:03:58.067Z"
             }
           ]
         }

@@ -20,6 +20,7 @@ namespace Lab_16
         {
             context.Employees.Load();
             context.Jobs.Load();
+
             grdViewPrds.DataSource = context.Employees.Local.ToBindingList();
             grdViewPrds.Columns["job"].Visible = false;
 

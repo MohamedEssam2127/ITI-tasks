@@ -1,0 +1,12 @@
+D:\ITI\ITI_tasks\C#\WeatherData\WeatherData\bin\Debug\net10.0\WeatherData.deps.json
+D:\ITI\ITI_tasks\C#\WeatherData\WeatherData\bin\Debug\net10.0\WeatherData.dll
+D:\ITI\ITI_tasks\C#\WeatherData\WeatherData\bin\Debug\net10.0\WeatherData.pdb
+D:\ITI\ITI_tasks\C#\WeatherData\WeatherData\obj\Debug\net10.0\WeatherData.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI_tasks\C#\WeatherData\WeatherData\obj\Debug\net10.0\WeatherData.AssemblyInfoInputs.cache
+D:\ITI\ITI_tasks\C#\WeatherData\WeatherData\obj\Debug\net10.0\WeatherData.AssemblyInfo.cs
+D:\ITI\ITI_tasks\C#\WeatherData\WeatherData\obj\Debug\net10.0\WeatherData.csproj.CoreCompileInputs.cache
+D:\ITI\ITI_tasks\C#\WeatherData\WeatherData\obj\Debug\net10.0\WeatherData.sourcelink.json
+D:\ITI\ITI_tasks\C#\WeatherData\WeatherData\obj\Debug\net10.0\WeatherData.dll
+D:\ITI\ITI_tasks\C#\WeatherData\WeatherData\obj\Debug\net10.0\refint\WeatherData.dll
+D:\ITI\ITI_tasks\C#\WeatherData\WeatherData\obj\Debug\net10.0\WeatherData.pdb
+D:\ITI\ITI_tasks\C#\WeatherData\WeatherData\obj\Debug\net10.0\ref\WeatherData.dll

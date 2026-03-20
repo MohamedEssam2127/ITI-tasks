@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Builder/Builder.csproj" />
+  <Project Path="Decorator/Decorator.csproj" />
+  <Project Path="Observer/Observer.csproj" />
+  <Project Path="Strategy/Strategy.csproj" />
+</Solution>

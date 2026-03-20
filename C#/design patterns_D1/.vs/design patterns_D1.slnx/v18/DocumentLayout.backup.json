@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|d:\\iti\\iti_tasks\\c#\\design patterns_d1\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C62B713-B8E1-77CB-B986-9E20C910E335}|Decorator\\Decorator.csproj|d:\\iti\\iti_tasks\\c#\\design patterns_d1\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C62B713-B8E1-77CB-B986-9E20C910E335}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C62B713-B8E1-77CB-B986-9E20C910E335}|Decorator\\Decorator.csproj|d:\\iti\\iti_tasks\\c#\\design patterns_d1\\decorator\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C62B713-B8E1-77CB-B986-9E20C910E335}|Decorator\\Decorator.csproj|solutionrelative:decorator\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F71D1A-30FC-F9BD-DEBE-1F62C4454ECD}|Strategy\\Strategy.csproj|d:\\iti\\iti_tasks\\c#\\design patterns_d1\\strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F71D1A-30FC-F9BD-DEBE-1F62C4454ECD}|Strategy\\Strategy.csproj|solutionrelative:strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F71D1A-30FC-F9BD-DEBE-1F62C4454ECD}|Strategy\\Strategy.csproj|d:\\iti\\iti_tasks\\c#\\design patterns_d1\\strategy\\teamstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F71D1A-30FC-F9BD-DEBE-1F62C4454ECD}|Strategy\\Strategy.csproj|solutionrelative:strategy\\teamstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F71D1A-30FC-F9BD-DEBE-1F62C4454ECD}|Strategy\\Strategy.csproj|d:\\iti\\iti_tasks\\c#\\design patterns_d1\\strategy\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F71D1A-30FC-F9BD-DEBE-1F62C4454ECD}|Strategy\\Strategy.csproj|solutionrelative:strategy\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231A262A-F463-5755-8F96-81C9687BD273}|Observer\\Observer.csproj|d:\\iti\\iti_tasks\\c#\\design patterns_d1\\observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231A262A-F463-5755-8F96-81C9687BD273}|Observer\\Observer.csproj|solutionrelative:observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231A262A-F463-5755-8F96-81C9687BD273}|Observer\\Observer.csproj|d:\\iti\\iti_tasks\\c#\\design patterns_d1\\observer\\football.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231A262A-F463-5755-8F96-81C9687BD273}|Observer\\Observer.csproj|solutionrelative:observer\\football.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231A262A-F463-5755-8F96-81C9687BD273}|Observer\\Observer.csproj|d:\\iti\\iti_tasks\\c#\\design patterns_d1\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231A262A-F463-5755-8F96-81C9687BD273}|Observer\\Observer.csproj|solutionrelative:observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231A262A-F463-5755-8F96-81C9687BD273}|Observer\\Observer.csproj|d:\\iti\\iti_tasks\\c#\\design patterns_d1\\observer\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231A262A-F463-5755-8F96-81C9687BD273}|Observer\\Observer.csproj|solutionrelative:observer\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Decorator\\Program.cs",
+              "RelativeToolTip": "Decorator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:47:59.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Position.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Observer\\Position.cs",
+              "RelativeDocumentMoniker": "Observer\\Position.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Observer\\Position.cs",
+              "RelativeToolTip": "Observer\\Position.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T22:29:39.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamStrategy.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Strategy\\TeamStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\TeamStrategy.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Strategy\\TeamStrategy.cs",
+              "RelativeToolTip": "Strategy\\TeamStrategy.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:19:50.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\IObserver.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Observer\\IObserver.cs",
+              "RelativeToolTip": "Observer\\IObserver.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T22:31:48.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Strategy\\Program.cs",
+              "RelativeDocumentMoniker": "Strategy\\Program.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Strategy\\Program.cs",
+              "RelativeToolTip": "Strategy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:15:26.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "player.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Decorator\\player.cs",
+              "RelativeDocumentMoniker": "Decorator\\player.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Decorator\\player.cs",
+              "RelativeToolTip": "Decorator\\player.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwE8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:49:20.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Builder\\Program.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Builder\\Program.cs",
+              "RelativeToolTip": "Builder\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwGkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:28:40.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Strategy\\Team.cs",
+              "RelativeDocumentMoniker": "Strategy\\Team.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Strategy\\Team.cs",
+              "RelativeToolTip": "Strategy\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:18:40.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Observer\\Program.cs",
+              "RelativeDocumentMoniker": "Observer\\Program.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Observer\\Program.cs",
+              "RelativeToolTip": "Observer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T22:25:15.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Football.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Observer\\Football.cs",
+              "RelativeDocumentMoniker": "Observer\\Football.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\design patterns_D1\\Observer\\Football.cs",
+              "RelativeToolTip": "Observer\\Football.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T22:33:28.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
