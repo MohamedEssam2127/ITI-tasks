@@ -69,3 +69,8 @@ D:\ITI\ITI_tasks\C#\LAB 16 part 2\UI\obj\Debug\net10.0-windows\UI.csproj.Assembl
 D:\ITI\ITI_tasks\C#\LAB 16 part 2\UI\obj\Debug\net10.0-windows\UI.csproj.Up2Date
 D:\ITI\ITI_tasks\C#\LAB 16 part 2\UI\obj\Debug\net10.0-windows\UI.License.resources
 D:\ITI\ITI_tasks\C#\LAB 16 part 2\UI\obj\Debug\net10.0-windows\UI.Kitchen.resources
+D:\ITI\ITI_tasks\C#\LAB 16 part 2\UI\obj\Debug\net10.0-windows\UI.FoodMenu.resources
+D:\ITI\ITI_tasks\C#\LAB 16 part 2\UI\obj\Debug\net10.0-windows\UI.Properties.Resources.resources
+D:\ITI\ITI_tasks\C#\LAB 16 part 2\UI\obj\Debug\net10.0-windows\UI.Frontend.resources
+D:\ITI\ITI_tasks\C#\LAB 16 part 2\UI\bin\Debug\net10.0-windows\Dapper.dll
+D:\ITI\ITI_tasks\C#\LAB 16 part 2\UI\obj\Debug\net10.0-windows\UI.FinalizePayment.resources

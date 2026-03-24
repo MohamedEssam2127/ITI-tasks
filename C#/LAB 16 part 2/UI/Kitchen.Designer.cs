@@ -136,6 +136,7 @@
             btnUpdate.TabIndex = 0;
             btnUpdate.Text = "UPDATE CHANGES";
             btnUpdate.UseVisualStyleBackColor = false;
+            btnUpdate.Click += btnUpdate_Click;
             // 
             // lblQueue
             // 
@@ -255,6 +256,7 @@
             chkSupplyStatus.Size = new Size(250, 25);
             chkSupplyStatus.TabIndex = 9;
             chkSupplyStatus.Text = "Is Food/Supply Delivered?";
+            chkSupplyStatus.CheckedChanged += chkSupplyStatus_CheckedChanged;
             // 
             // btnFoodSelect
             // 
@@ -267,6 +269,7 @@
             btnFoodSelect.TabIndex = 10;
             btnFoodSelect.Text = "Change Food Selection";
             btnFoodSelect.UseVisualStyleBackColor = false;
+            btnFoodSelect.Click += btnFoodSelect_Click;
             // 
             // grpGuestInfo
             // 
@@ -406,7 +409,6 @@
             dgvOverview.RowHeadersWidth = 51;
             dgvOverview.Size = new Size(992, 460);
             dgvOverview.TabIndex = 0;
-           
             // 
             // Kitchen
             // 

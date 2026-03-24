@@ -80,11 +80,88 @@ namespace UI
                 txtLunch.Text = res.lunch?.ToString() ?? "0";
                 txtDinner.Text = res.dinner?.ToString() ?? "0";
 
-                chkCleaning.Checked = res.cleaning ;
-                chkTowel.Checked = res.towel ;
-                chkSurprise.Checked = res.s_surprise ;
-                chkSupplyStatus.Checked = res.supply_status ;
+                chkCleaning.Checked = res.cleaning;
+                chkTowel.Checked = res.towel;
+                chkSurprise.Checked = res.s_surprise;
+                chkSupplyStatus.Checked = res.supply_status;
             }
+        }
+
+        private void btnFoodSelect_Click(object sender, EventArgs e)
+        {
+            if (currentReservation == null) return;
+
+            FoodMenu menu = new FoodMenu();
+
+            menu.Bfast = int.Parse(txtBfast.Text);
+            menu.Lunch = int.Parse(txtLunch.Text);
+            menu.Dinner = int.Parse(txtDinner.Text);
+            menu.Cleaning = chkCleaning.Checked;
+            menu.Towel = chkTowel.Checked;
+            menu.Surprise = chkSurprise.Checked;
+
+            if (menu.ShowDialog() == DialogResult.OK)
+            {
+                txtBfast.Text = menu.Bfast.ToString();
+                txtLunch.Text = menu.Lunch.ToString();
+                txtDinner.Text = menu.Dinner.ToString();
+
+                chkCleaning.Checked = menu.Cleaning;
+                chkTowel.Checked = menu.Towel;
+                chkSurprise.Checked = menu.Surprise;
+
+                currentReservation.break_fast = menu.Bfast;
+                currentReservation.lunch = menu.Lunch;
+                currentReservation.dinner = menu.Dinner;
+                currentReservation.cleaning = menu.Cleaning;
+                currentReservation.towel = menu.Towel;
+                currentReservation.s_surprise = menu.Surprise;
+            }
+        }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            if (currentReservation == null) return;
+
+            int b = int.Parse(txtBfast.Text);
+            int l = int.Parse(txtLunch.Text);
+            int d = int.Parse(txtDinner.Text);
+            int fBill = (b * 7) + (l * 15) + (d * 15);
+
+            Context.Database.ExecuteSqlInterpolated($@"EXEC sp_UpdateReservationKitchen 
+               {currentReservation.Id}, {b}, {l}, {d}, 
+               {chkCleaning.Checked}, {chkTowel.Checked}, {chkSurprise.Checked}, 
+               {chkSupplyStatus.Checked}, {fBill}");
+
+            LoadKitchenDataGrid();
+            LoadQueueList();
+            MessageBox.Show("Updated Successfully!");
+        }
+
+        private void chkSupplyStatus_CheckedChanged(object sender, EventArgs e)
+        {
+            if (currentReservation == null) return;
+            if (!chkSupplyStatus.Checked)
+            {
+                chkCleaning.Text = "Cleaning";
+                chkTowel.Text = "Toweling";
+                chkSurprise.Text = "Surprise";
+                chkCleaning.Checked = currentReservation.cleaning;
+                chkTowel.Checked = currentReservation.towel;
+                chkSurprise.Checked = currentReservation.s_surprise;
+               
+            }
+            else {
+                chkCleaning.Checked = false;
+                chkCleaning.Text = "Cleaned";
+                chkTowel.Checked = false;
+                chkTowel.Text = "Toweled";
+                chkSurprise.Checked = false;
+                chkSurprise.Text = "Surprised";
+               
+            }
+            
+           
         }
     }
 }

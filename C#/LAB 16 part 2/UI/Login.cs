@@ -1,3 +1,4 @@
+using DAL;
 using DAL.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.VisualBasic.ApplicationServices;
@@ -12,27 +13,33 @@ namespace UI
             btnClose.Click += (s, e) => Application.Exit();
         }
 
-        HotelContext Context = new HotelContext();
+        //HotelContext Context = new HotelContext();
 
+        ReservationManagment manager = new ReservationManagment();
         private void btnLogin_Click(object sender, EventArgs e)
         {
             string username = txtUsername.Text.Trim();
-            string password = txtPassword.Text;
+            string password = txtPassword.Text.Trim();
 
             if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
             {
                 MessageBox.Show("Please enter both username and password.", "Input Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
-            var acc1 = Context.Frontends.AsNoTracking().FirstOrDefault(u => u.Username == username && u.Password == password);
+            var acc1 = manager.Authenticate1(username,password);
 
             if (acc1 != null)
             {
-                MessageBox.Show("Welcome  Front ");
+                Frontend frontForm = new Frontend();
+                frontForm.FormClosed += (s, args) => Application.Exit();
+
+                frontForm.Show();
+                this.Hide();
+               
             }
             else
             {
-                var acc2 = Context.Kitchens.AsNoTracking().FirstOrDefault(u => u.Username == username && u.Password == password);
+                var acc2 = manager.Authenticate2(username, password); 
 
                 if (acc2 != null)
                 {
