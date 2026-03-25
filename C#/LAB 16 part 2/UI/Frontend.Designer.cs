@@ -18,6 +18,7 @@
         private void InitializeComponent()
         {
             pnlTop = new Panel();
+            btnLogout = new Button();
             btnClose = new Button();
             lblHeader = new Label();
             tabMain = new TabControl();
@@ -85,6 +86,7 @@
             // pnlTop
             // 
             pnlTop.BackColor = Color.FromArgb(52, 152, 219);
+            pnlTop.Controls.Add(btnLogout);
             pnlTop.Controls.Add(btnClose);
             pnlTop.Controls.Add(lblHeader);
             pnlTop.Dock = DockStyle.Top;
@@ -92,6 +94,23 @@
             pnlTop.Name = "pnlTop";
             pnlTop.Size = new Size(1330, 45);
             pnlTop.TabIndex = 1;
+            // 
+            // btnLogout
+            // 
+            btnLogout.BackColor = Color.Brown;
+            btnLogout.Dock = DockStyle.Right;
+            btnLogout.FlatAppearance.BorderSize = 0;
+            btnLogout.FlatAppearance.MouseOverBackColor = Color.FromArgb(41, 128, 185);
+            btnLogout.FlatStyle = FlatStyle.Flat;
+            btnLogout.Font = new Font("Segoe UI Semibold", 10F);
+            btnLogout.ForeColor = Color.White;
+            btnLogout.Location = new Point(1207, 0);
+            btnLogout.Name = "btnLogout";
+            btnLogout.Size = new Size(73, 45);
+            btnLogout.TabIndex = 2;
+            btnLogout.Text = "Logout";
+            btnLogout.UseVisualStyleBackColor = false;
+            btnLogout.Click += btnLogout_Click;
             // 
             // btnClose
             // 
@@ -630,6 +649,7 @@
 
         private Panel pnlTop;
         private Button btnClose;
+        private Button btnLogout;
         private Label lblHeader;
         private TabControl tabMain;
         private TabPage tpReservation, tpSearch, tpAdvView, tpRoomAvail;

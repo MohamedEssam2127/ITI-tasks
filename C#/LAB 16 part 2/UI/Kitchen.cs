@@ -149,19 +149,27 @@ namespace UI
                 chkCleaning.Checked = currentReservation.cleaning;
                 chkTowel.Checked = currentReservation.towel;
                 chkSurprise.Checked = currentReservation.s_surprise;
-               
+
             }
-            else {
+            else
+            {
                 chkCleaning.Checked = false;
                 chkCleaning.Text = "Cleaned";
                 chkTowel.Checked = false;
                 chkTowel.Text = "Toweled";
                 chkSurprise.Checked = false;
                 chkSurprise.Text = "Surprised";
-               
+
             }
-            
-           
+
+
+        }
+
+        private void btnLogout_Click(object sender, EventArgs e)
+        {
+            Login loginForm = new Login();
+            loginForm.Show();
+            this.Close();
         }
     }
 }

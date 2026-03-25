@@ -335,5 +335,13 @@ namespace UI
                 catch (Exception ex) { MessageBox.Show("Error: " + ex.Message); }
             }
         }
+
+        private void btnLogout_Click(object sender, EventArgs e)
+        {
+            Login login = new Login();
+            login.Show();
+            
+            this.Hide();
+        }
     }
 }

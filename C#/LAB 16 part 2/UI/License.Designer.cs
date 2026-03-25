@@ -68,14 +68,15 @@
             txtLicenseText.TabIndex = 5;
             txtLicenseText.TabStop = false;
             txtLicenseText.Text = "HOTEL MANAGEMENT SYSTEM v1.0\r\n\r\n" +
-                               "This project is built using the following technologies:\r\n" +
-                               "- Language: C# (.NET)\r\n" +
-                               "- UI Framework: Windows Forms (WinForms)\r\n" +
-                               "- Database: SQL Server\r\n" +
-                               "- ORM: Entity Framework Core (EF Core)\r\n" +
-                               "- Architecture: Data Access Layer (DAL) as a Class Library\r\n" +
-                               "- Database Management: EF Migrations\r\n\r\n" +
-                               "Developed for educational purposes.";
+      "This project implements a hybrid Data Access Layer for maximum efficiency:\r\n\r\n" +
+      "- Language: C# (.NET)\r\n" +
+      "- UI Framework: Windows Forms (Custom Flat Design)\r\n" +
+      "- Database: SQL Server\r\n" +
+      "- ORM (CRUD): Entity Framework Core (Insert, Update, Delete)\r\n" +
+      "- Performance (Read): Dapper (High-speed SELECT operations)\r\n" +
+      "- Architecture: N-Tier (DAL as a Class Library)\r\n" +
+      "- Database Management: EF Migrations & Stored Procedures\r\n\r\n" +
+      "Developed by: Mohamed Essam";
 
             // btnBack (Close Button at bottom)
             btnBack.BackColor = Color.FromArgb(52, 152, 219);

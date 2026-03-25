@@ -31,7 +31,7 @@ namespace UI
             if (acc1 != null)
             {
                 Frontend frontForm = new Frontend();
-                frontForm.FormClosed += (s, args) => Application.Exit();
+               // frontForm.FormClosed += (s, args) => Application.Exit();
 
                 frontForm.Show();
                 this.Hide();
@@ -47,7 +47,7 @@ namespace UI
                     Kitchen kitchenForm = new Kitchen();
 
                     
-                    kitchenForm.FormClosed += (s, args) => Application.Exit();
+                   // kitchenForm.FormClosed += (s, args) => Application.Exit();
 
                     kitchenForm.Show();
                     this.Hide();
