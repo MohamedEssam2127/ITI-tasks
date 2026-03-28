@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
   <Project Path="DAL/DAL.csproj" Id="63ee3e75-06b3-49dd-9412-8d1d1d7fc52d" />
   <Project Path="LAB 16 part 2/LAB 16 part 2.csproj" />
   <Project Path="UI/UI.csproj" Id="8c457b1f-aaec-4518-8b2a-2799258a2664" />
