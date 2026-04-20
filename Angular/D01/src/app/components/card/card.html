@@ -1,0 +1,51 @@
+<div class="card" (click)="toggleActions($event)">
+
+  @if (!isEdited) {
+    <div class="card-header">
+      <p class="card-title">{{toDo.title}}</p>
+      <p class="difficulty">{{toDo.priority}}</p>
+    </div>
+
+    <div class="card-mid">
+      <pre class="card-des">{{toDo.description}}</pre>
+      <div class="done">
+        <span class="category">{{toDo.tags}}</span>
+        <button class="done-btn" [class.completed]="toDo.isSDone" (click)="onDone()">
+          Done
+        </button>
+      </div>
+    </div>
+
+    @if (showActions && !toDo.isSDone) {
+      <div class="card-actions">
+        <button class="update-btn" (click)="onUpdate()">Update</button>
+        <button class="delete-btn" (click)="onDelete()">Delete</button>
+      </div>
+    }
+
+    <div class="card-footer">
+      <p class="card-date">{{toDo.date}}</p>
+    </div>
+
+  } @else {
+    <div class="edit-form">
+      <input [(ngModel)]="toDo.title" class="edit-input" placeholder="Title">
+      <textarea [(ngModel)]="toDo.description" class="edit-textarea" placeholder="Description"></textarea>
+
+      <div class="edit-row">
+        <select [(ngModel)]="toDo.priority">
+          <option value="low">Low</option>
+          <option value="medium">Medium</option>
+          <option value="high">High</option>
+        </select>
+        <input type="date" [(ngModel)]="toDo.date">
+      </div>
+
+      <div class="edit-actions">
+        <button class="save-btn" (click)="saveUpdate()">Save</button>
+        <button class="cancel-btn" (click)="cancelUpdate()">Cancel</button>
+      </div>
+    </div>
+  }
+
+</div>

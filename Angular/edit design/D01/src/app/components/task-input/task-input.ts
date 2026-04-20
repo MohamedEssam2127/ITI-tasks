@@ -1,0 +1,42 @@
+import { Component, EventEmitter, Output } from '@angular/core';
+import {FormsModule} from '@angular/forms';
+import { ToDo } from '../../types';
+import { v4 as uuidv4 } from 'uuid';
+@Component({
+  selector: 'app-task-input',
+  imports: [FormsModule],
+  templateUrl: './task-input.html',
+  styleUrl: './task-input.css',
+})
+export class TaskInput {
+  data:ToDo[] =[]
+
+  @Output() sendTodoToparent = new EventEmitter<ToDo>();
+  isSubmitted:boolean = false ;
+  inputObj:ToDo ={
+    id: '',
+    title:'',
+    description:"" ,
+    priority:"",
+    date:"" ,
+    tags:"",
+    isSDone:false
+  }
+  addToArray(t: Event) {
+     const isEmpty =
+    !this.inputObj.title ||
+    !this.inputObj.description ||
+    !this.inputObj.priority ||
+    !this.inputObj.date;
+
+  if (isEmpty) {
+    this.isSubmitted = true;
+    return;
+  }
+  this.isSubmitted = false
+    const newId = uuidv4().split('-')[0];
+    this.sendTodoToparent.emit({ ...this.inputObj,id: newId});
+  }
+}
+
+

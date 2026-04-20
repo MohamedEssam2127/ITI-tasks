@@ -1,0 +1,16 @@
+.streak{
+  color: #ff976e;
+  font-weight: bold;
+}
+
+.streak-container {
+  display: flex;
+  gap: 8px;
+  background: var(--bg-container);
+  padding: 6px 16px;
+  border-radius: var(--radius-full);
+  width: fit-content;
+  border: 1px solid var(--border-subtle);
+  justify-content: center;
+  align-items: center;
+}

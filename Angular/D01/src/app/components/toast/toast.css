@@ -1,0 +1,58 @@
+.toast {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  min-width: 220px;
+  z-index: 999;
+  animation: fadeIn 0.3s ease;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  box-shadow: 1px 5px #536a8f;
+  border-left: 6px solid;
+}
+
+.card-title {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+
+.success {
+  border-color: #22C55E;
+}
+.success .card-title {
+  color: #16A34A;
+}
+
+.delete {
+  border-color: #EF4444;
+}
+.delete .card-title {
+  color: #DC2626;
+}
+
+.update {
+  border-color: #3B82F6;
+}
+.update .card-title {
+  color: #2563EB;
+}
+
+.done {
+  border-color: #A855F7;
+}
+.done .card-title {
+  color: #9333EA;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}

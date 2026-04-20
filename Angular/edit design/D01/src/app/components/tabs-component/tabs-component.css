@@ -1,0 +1,38 @@
+:host {
+  display: block;
+}
+
+.tabs-container {
+  display: flex;
+  gap: 8px;
+  background: var(--bg-container);
+  padding: 6px;
+  border-radius: var(--radius-full);
+  width: fit-content;
+  border: 1px solid var(--border-subtle);
+}
+
+.tabs-container button {
+  padding: 10px 24px;
+  border-radius: var(--radius-full);
+  border: none;
+  background-color: transparent;
+  color: var(--text-muted);
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition-smooth);
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 0.8px;
+}
+
+.tabs-container button:hover {
+  color: var(--text-primary);
+  background: var(--bg-elevated);
+}
+
+.tabs-container button.active {
+  background-color: var(--accent);
+  color: var(--bg-deep);
+  box-shadow: 0 4px 12px rgba(165, 180, 252, 0.3);
+}

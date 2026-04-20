@@ -1,0 +1,15 @@
+<div class="slider">
+    <div class="slider-row">
+    <button class="arrow left" (click)="left()">&#8592;</button>
+    <img [src]="images[active]" alt="image">
+    <button class="arrow right" (click)="right()">&#8594;</button>
+
+    </div>
+
+    <div class="dots">
+    <span class="dot" [class.active]="active == 0" (click)="goToImage(0)"></span>
+    <span class="dot" [class.active]="active == 1" (click)="goToImage(1)"></span>
+    <span class="dot" [class.active]="active == 2" (click)="goToImage(2)"></span>
+    <span class="dot" [class.active]="active == 3" (click)="goToImage(3)"></span>
+    </div>
+</div>

@@ -1,0 +1,58 @@
+.slider {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 15px;
+  width: 90%;
+  margin: 10px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-direction: column;
+}
+
+
+.slider-row{
+  display: flex;
+}
+.slider img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+.arrow {
+  background: #EEF2FF;
+  color: #4F46E5;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.arrow:hover {
+  background: #4F46E5;
+  color: white;
+}
+
+.dots {
+  bottom: 10px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  gap: 8px;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #CBD5E1;
+}
+
+.dot.active {
+  background-color: #4F46E5;
+}

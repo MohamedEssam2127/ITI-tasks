@@ -1,0 +1,17 @@
+<app-header
+ [counter]="flameStreak" (streakCompleted)="onStreakCompleted()"></app-header>
+<app-gallary/>
+<app-toast [toastType]="tostType"></app-toast>
+<div class="app-body">
+  <aside class="sidebar">
+    <app-task-input (sendTodoToparent)="addToToDos($event)"></app-task-input>
+  </aside>
+  <main class="main-content">
+    <app-tabs (filterChanged)="setFilter($event)"></app-tabs>
+    <app-task-list [toDos]="filteredToDos"
+     (delete)="deleteToDo($event)"
+     (update)="updateToDo($event)"
+     (isDone)="makeToDoDone($event)"/>
+  </main>
+</div>
+<app-footer></app-footer>

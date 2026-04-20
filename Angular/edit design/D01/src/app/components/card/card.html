@@ -1,0 +1,58 @@
+<div class="card" (click)="toggleActions($event)">
+
+  @if (!isEdited) {
+    <div class="card-body">
+      <div class="card-info">
+        <div class="card-header">
+          <p class="card-title">{{toDo.title}}</p>
+          <p class="difficulty">{{toDo.priority}}</p>
+        </div>
+
+        <div class="card-mid">
+          <pre class="card-des">{{toDo.description}}</pre>
+        </div>
+
+        <div class="card-meta">
+          <div class="tag-group">
+            <span class="category">{{toDo.tags}}</span>
+          </div>
+          <span class="card-date">{{toDo.date}}</span>
+        </div>
+      </div>
+
+      <div class="card-side">
+        <button class="done-btn" [class.completed]="toDo.isSDone" (click)="onDone()">
+          @if (toDo.isSDone) { ✓ } @else { ○ }
+        </button>
+
+        <div class="card-actions">
+          @if (!toDo.isSDone) {
+            <button class="action-icon edit-icon" (click)="onUpdate()" title="Edit">✎</button>
+            <button class="action-icon delete-icon" (click)="onDelete()" title="Delete">✕</button>
+          }
+        </div>
+      </div>
+    </div>
+
+  } @else {
+    <div class="edit-form">
+      <input [(ngModel)]="toDo.title" class="edit-input" placeholder="Title">
+      <textarea [(ngModel)]="toDo.description" class="edit-textarea" placeholder="Description"></textarea>
+
+      <div class="edit-row">
+        <select [(ngModel)]="toDo.priority">
+          <option value="low">Low</option>
+          <option value="medium">Medium</option>
+          <option value="high">High</option>
+        </select>
+        <input type="date" [(ngModel)]="toDo.date">
+      </div>
+
+      <div class="edit-actions">
+        <button class="save-btn" (click)="saveUpdate()">Save</button>
+        <button class="cancel-btn" (click)="cancelUpdate()">Cancel</button>
+      </div>
+    </div>
+  }
+
+</div>

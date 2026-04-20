@@ -1,0 +1,30 @@
+<div class="slider">
+  <img class="bg-image" [src]="images[active]" alt="image">
+  <div class="slider-overlay"></div>
+
+  <button class="nav-arrow prev-arrow" (click)="left()">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 18l-6-6 6-6"/>
+    </svg>
+  </button>
+  
+  <button class="nav-arrow next-arrow" (click)="right()">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M9 18l6-6-6-6"/>
+    </svg>
+  </button>
+
+  <div class="hero-content">
+    <div class="hero-card">
+      <h1 class="hero-greeting">Good morning, Curator.</h1>
+      <p class="hero-sub">Stay focused. You have tasks waiting to be curated and completed today.</p>
+    </div>
+  </div>
+
+  <div class="dots">
+    <span class="dot" [class.active]="active == 0" (click)="goToImage(0)"></span>
+    <span class="dot" [class.active]="active == 1" (click)="goToImage(1)"></span>
+    <span class="dot" [class.active]="active == 2" (click)="goToImage(2)"></span>
+    <span class="dot" [class.active]="active == 3" (click)="goToImage(3)"></span>
+  </div>
+</div>

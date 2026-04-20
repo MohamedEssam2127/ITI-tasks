@@ -1,0 +1,32 @@
+<div class="task-form">
+  <h2 class="form-title">Capture Thought</h2>
+  <p class="form-subtitle">Add a new task to your collection</p>
+
+  <input type="text" placeholder="Task title" [class.input-error] = 'isSubmitted && !inputObj.title' [(ngModel)]="inputObj.title"/>
+
+  <textarea placeholder="Task description"
+  [class.input-error] = 'isSubmitted && !inputObj.description'
+  [(ngModel)]="inputObj.description"></textarea>
+
+  <div class="priority-group">
+    <button
+      class="priority-btn"
+      [class.active]="inputObj['priority'] === 'Low'"
+      (click)="inputObj['priority'] = 'Low'">Low</button>
+    <button
+      class="priority-btn"
+      [class.active]="inputObj['priority'] === 'Medium'"
+      (click)="inputObj['priority'] = 'Medium'">Medium</button>
+    <button
+      class="priority-btn"
+      [class.active]="inputObj['priority'] === 'High'"
+      (click)="inputObj['priority'] = 'High'">High</button>
+  </div>
+
+  <input type="date" [(ngModel)]="inputObj['date'] "   [class.input-error] = 'isSubmitted && !inputObj.date'/>
+
+  <textarea placeholder="Tags (comma separated)" [(ngModel)]="inputObj['tags']"
+  [class.input-error] = 'isSubmitted && !inputObj.tags'></textarea>
+  <button class="curate-btn" (click)="addToArray($event)">Create Task</button>
+
+</div>

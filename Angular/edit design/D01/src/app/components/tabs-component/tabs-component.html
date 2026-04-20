@@ -1,0 +1,17 @@
+<div class="tabs-container">
+  <button
+    (click)="selectTab('all')"
+    [class.active]="activeTab === 'all'">
+    All
+  </button>
+  <button
+    (click)="selectTab('done')"
+    [class.active]="activeTab === 'done'">
+    Done
+  </button>
+  <button
+    (click)="selectTab('notDone')"
+    [class.active]="activeTab === 'notDone'">
+    Not Done
+  </button>
+</div>

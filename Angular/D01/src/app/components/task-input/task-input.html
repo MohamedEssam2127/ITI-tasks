@@ -1,0 +1,19 @@
+<div class="task-form">
+
+    <input type="text" placeholder="Task title"  [(ngModel)]="inputObj['title']"/>
+
+    <textarea placeholder="Task description" [(ngModel)]="inputObj['description']" ></textarea>
+
+  <select [(ngModel)]="inputObj['priority']">
+    <option value="">Select priority</option>
+    <option>Low</option>
+    <option>Medium</option>
+    <option>High</option>
+  </select>
+
+  <input type="date"  [(ngModel)]="inputObj['date']"/>
+
+  <textarea placeholder="Tags (comma separated)"  [(ngModel)]="inputObj['tags']" ></textarea>
+  <button (click)="addToArray($event)">Add Task</button>
+
+</div>

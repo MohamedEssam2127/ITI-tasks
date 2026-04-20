@@ -1,0 +1,8 @@
+<div class="card-list">
+     @for(card of toDos ; track card.id){
+        <app-card [toDo]="card"
+         (delete)="deleteToDo($event)"
+         (update)="updateToDo($event)"
+         (isDone)="doneToDo($event)" />
+     }
+</div>

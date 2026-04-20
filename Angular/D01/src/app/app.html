@@ -1,0 +1,7 @@
+<app-header></app-header>
+<app-gallary/>
+<app-toast [toastType]="tostType"></app-toast>
+<app-task-input  (sendTodoToparent)="addToToDos($event)"></app-task-input>
+<app-tabs (filterChanged)="setFilter($event)"></app-tabs>
+<app-task-list  [toDos]="filteredToDos"  (delete)="deleteToDo($event)" (update)="updateToDo($event)"></app-task-list>
+<app-footer></app-footer>
