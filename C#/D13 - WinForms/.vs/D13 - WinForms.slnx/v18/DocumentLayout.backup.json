@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\iti\\iti_tasks\\c#\\d13 - winforms\\d13 - winforms\\frmproductsgridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsgridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\iti\\iti_tasks\\c#\\d13 - winforms\\d13 - winforms\\frmproductsdetailedview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsdetailedview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\iti\\iti_tasks\\c#\\d13 - winforms\\d13 - winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\iti\\iti_tasks\\c#\\d13 - winforms\\d13 - winforms\\frmproductsgridview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsgridview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\iti\\iti_tasks\\c#\\d13 - winforms\\d13 - winforms\\frmproductsdetailedview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsdetailedview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmProductsGridView.cs",
-              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsGridView.cs",
-              "RelativeDocumentMoniker": "D13 - WinForms\\frmProductsGridView.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsGridView.cs",
-              "RelativeToolTip": "D13 - WinForms\\frmProductsGridView.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAkwGsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T12:14:11.7Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -79,25 +62,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "frmProductsDetailedView.Designer.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.Designer.cs",
               "RelativeDocumentMoniker": "D13 - WinForms\\frmProductsDetailedView.Designer.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.Designer.cs",
-              "RelativeToolTip": "D13 - WinForms\\frmProductsDetailedView.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.Designer.cs*",
+              "RelativeToolTip": "D13 - WinForms\\frmProductsDetailedView.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T18:42:12.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "frmProductsDetailedView.cs [Design]",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.cs",
               "RelativeDocumentMoniker": "D13 - WinForms\\frmProductsDetailedView.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.cs [Design]",
-              "RelativeToolTip": "D13 - WinForms\\frmProductsDetailedView.cs [Design]",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.cs [Design]*",
+              "RelativeToolTip": "D13 - WinForms\\frmProductsDetailedView.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T18:41:41.137Z",
               "EditorCaption": " [Design]"
@@ -108,16 +91,16 @@
               "Title": "frmProductsDetailedView.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.cs",
               "RelativeDocumentMoniker": "D13 - WinForms\\frmProductsDetailedView.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.cs",
-              "RelativeToolTip": "D13 - WinForms\\frmProductsDetailedView.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAYwDMAAAAcAAAAAAAAAA==",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.cs*",
+              "RelativeToolTip": "D13 - WinForms\\frmProductsDetailedView.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv18AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T15:04:42.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frmProductsGridView.Designer.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsGridView.Designer.cs",
               "RelativeDocumentMoniker": "D13 - WinForms\\frmProductsGridView.Designer.cs",
@@ -125,12 +108,11 @@
               "RelativeToolTip": "D13 - WinForms\\frmProductsGridView.Designer.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwHAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T12:14:18.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T12:14:18.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.config",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\App.config",
               "RelativeDocumentMoniker": "D13 - WinForms\\App.config",
@@ -138,12 +120,11 @@
               "RelativeToolTip": "D13 - WinForms\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-10T12:21:13.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T12:21:13.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\Program.cs",
               "RelativeDocumentMoniker": "D13 - WinForms\\Program.cs",
@@ -151,8 +132,7 @@
               "RelativeToolTip": "D13 - WinForms\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T01:18:53.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T01:18:53.09Z"
             }
           ]
         }

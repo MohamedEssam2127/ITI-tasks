@@ -1,0 +1,145 @@
+.auth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+}
+
+.monolith-card {
+  background-color: var(--bg-container);
+  padding: 48px;
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-elevated);
+  width: 100%;
+  max-width: 420px;
+  text-align: center;
+}
+
+.auth-title {
+  font-size: 32px;
+  font-weight: 800;
+  margin-bottom: 8px;
+  color: var(--text-primary);
+}
+
+.auth-subtitle {
+  color: var(--text-secondary);
+  margin-bottom: 32px;
+}
+
+.form-group {
+  margin-bottom: 24px;
+}
+
+.auth-input {
+  width: 100%;
+  background-color: var(--bg-input);
+  border: none;
+  padding: 16px;
+  border-radius: var(--radius-md);
+  color: var(--text-primary);
+  font-size: 16px;
+  outline: none;
+  transition: var(--transition-smooth);
+}
+
+.auth-input:focus {
+  background-color: var(--bg-elevated);
+}
+
+.auth-btn {
+  width: 100%;
+  background-color: var(--accent);
+  color: #fff;
+  border: none;
+  padding: 16px;
+  border-radius: var(--radius-full);
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition-smooth);
+  margin-top: 16px;
+}
+
+.auth-btn:hover {
+  background-color: var(--accent-hover);
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.4);
+}
+
+.priority-group {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0;
+  background: var(--bg-input);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+}
+
+.priority-btn {
+  padding: 12px 0;
+  border: none;
+  background: transparent ;
+  color: var(--text-muted) ;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition-smooth);
+  position: relative;
+}
+
+.priority-btn:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 25%;
+  height: 50%;
+  width: 1px;
+  background: var(--border-subtle);
+}
+
+.priority-btn:hover {
+  color: var(--text-primary) ;
+  background: var(--bg-elevated) ;
+}
+
+.priority-btn.active {
+  background: var(--accent) ;
+  color: var(--bg-deep) ;
+}
+
+.priority-btn.active::after {
+  display: none;
+}
+
+.task-card {
+  max-width: 650px;
+  margin: 40px auto;
+}
+
+.no-resize {
+  resize: none;
+  min-height: 120px;
+  font-family: var(--font);
+}
+
+.error {
+  border: 2px solid var(--error);
+  color: var(--error) ;
+}
+
+.error::placeholder {
+  color: var(--error) ;
+}
+
+.input-wrapper {
+  position: relative;
+  width: 100%;
+}
+
+.error-message {
+  color: var(--error);
+  font-size: 14px;
+  text-align: left;
+  margin-top: 8px;
+  display: block;
+}

@@ -1,0 +1,22 @@
+.task-list-container {
+  padding: 32px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.task-list-header {
+  margin-bottom: 48px;
+}
+
+.page-title {
+  font-size: 48px;
+  font-weight: 800;
+  color: var(--text-primary);
+  margin-bottom: 24px;
+}
+
+.tasks-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}

@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\iti\\iti_tasks\\c#\\d13 - winforms\\d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:D13 - WinForms\\frmProductsDetailedView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:D13 - WinForms\\frmProductsDetailedView.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\iti\\iti_tasks\\c#\\d13 - winforms\\d13 - winforms\\frmproductsdetailedview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsdetailedview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\iti\\iti_tasks\\c#\\d13 - winforms\\d13 - winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsGridView.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:D13 - WinForms\\frmProductsGridView.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\iti\\iti_tasks\\c#\\d13 - winforms\\d13 - winforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:D13 - WinForms\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\iti\\iti_tasks\\c#\\d13 - winforms\\d13 - winforms\\frmproductsgridview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsgridview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:D13 - WinForms\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,10 +43,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
@@ -61,26 +57,33 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmProductsDetailedView.Designer.cs",
-              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.Designer.cs",
-              "RelativeDocumentMoniker": "D13 - WinForms\\frmProductsDetailedView.Designer.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.Designer.cs*",
-              "RelativeToolTip": "D13 - WinForms\\frmProductsDetailedView.Designer.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T18:42:12.212Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "frmProductsDetailedView.Designer.cs",
+              "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.Designer.cs",
+              "RelativeDocumentMoniker": "D13 - WinForms\\frmProductsDetailedView.Designer.cs",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.Designer.cs",
+              "RelativeToolTip": "D13 - WinForms\\frmProductsDetailedView.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T18:42:12.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "frmProductsDetailedView.cs [Design]",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.cs",
               "RelativeDocumentMoniker": "D13 - WinForms\\frmProductsDetailedView.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.cs [Design]*",
-              "RelativeToolTip": "D13 - WinForms\\frmProductsDetailedView.cs [Design]*",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.cs [Design]",
+              "RelativeToolTip": "D13 - WinForms\\frmProductsDetailedView.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T18:41:41.137Z",
               "EditorCaption": " [Design]"
@@ -91,16 +94,16 @@
               "Title": "frmProductsDetailedView.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.cs",
               "RelativeDocumentMoniker": "D13 - WinForms\\frmProductsDetailedView.cs",
-              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.cs*",
-              "RelativeToolTip": "D13 - WinForms\\frmProductsDetailedView.cs*",
-              "ViewState": "AgIAAEIAAAAAAAAAAADwv18AAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsDetailedView.cs",
+              "RelativeToolTip": "D13 - WinForms\\frmProductsDetailedView.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv1oAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T15:04:42.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "frmProductsGridView.Designer.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\frmProductsGridView.Designer.cs",
               "RelativeDocumentMoniker": "D13 - WinForms\\frmProductsGridView.Designer.cs",
@@ -124,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ITI\\ITI_tasks\\C#\\D13 - WinForms\\D13 - WinForms\\Program.cs",
               "RelativeDocumentMoniker": "D13 - WinForms\\Program.cs",

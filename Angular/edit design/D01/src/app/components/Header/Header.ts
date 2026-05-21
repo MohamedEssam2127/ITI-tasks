@@ -13,7 +13,7 @@ export class Header  {
   @Input() counter: number = 0;
   @Output() streakCompleted = new EventEmitter<void>();
 
-  timer = '00:03';
+  timer = '00:00';
   isFlameVisible = false;
   private secondsRemaining = 3;
   private intervalId: any;
@@ -23,7 +23,7 @@ export class Header  {
   }
 
   ngOnChanges(changes: SimpleChanges) {
-    if (changes['counter'] && !changes['counter'].firstChange) {
+    if ( !changes['counter'].firstChange) {
       if (changes['counter'].currentValue > 0) {
         this.resetAndStartTimer();
       }

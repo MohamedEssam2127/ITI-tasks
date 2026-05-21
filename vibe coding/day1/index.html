@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QuickSort Interface</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div>
+        <span>Algorithm</span>
+        <h1>QuickSort</h1>
+      </div>
+      <p>Paste comma-separated numbers and watch the sorted result appear.</p>
+    </header>
+    <main class="panel">
+      <label class="field-label">
+        <span>Input numbers</span>
+        <input id="input" type="text" placeholder="7, 3, 12, 5, 9">
+      </label>
+      <div class="actions">
+        <button id="sortBtn" type="button">Sort Now</button>
+      </div>
+      <section class="result-shell">
+        <h2>Result</h2>
+        <div class="result" id="result">Enter numbers to sort</div>
+      </section>
+      <section class="table-shell">
+        <h2>Complexity comparison</h2>
+        <div class="table-container">
+          <table class="comparison-table">
+            <thead>
+              <tr>
+                <th>Algorithm</th>
+                <th>Best</th>
+                <th>Average</th>
+                <th>Worst</th>
+                <th>Space</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>QuickSort</td>
+                <td>O(n log n)</td>
+                <td>O(n log n)</td>
+                <td>O(n^2)</td>
+                <td>O(n)</td>
+              </tr>
+              <tr>
+                <td>MergeSort</td>
+                <td>O(n log n)</td>
+                <td>O(n log n)</td>
+                <td>O(n log n)</td>
+                <td>O(n)</td>
+              </tr>
+              <tr>
+                <td>HeapSort</td>
+                <td>O(n log n)</td>
+                <td>O(n log n)</td>
+                <td>O(n log n)</td>
+                <td>O(1)</td>
+              </tr>
+              <tr>
+                <td>Array.sort()</td>
+                <td>O(n log n)</td>
+                <td>O(n log n)</td>
+                <td>O(n log n)</td>
+                <td>O(n)</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

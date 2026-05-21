@@ -1,0 +1,28 @@
+.tabs-container {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+.tab-pill {
+  background-color: transparent;
+  color: var(--text-secondary);
+  border: none;
+  padding: 12px 24px;
+  border-radius: var(--radius-full);
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition-smooth);
+}
+
+.tab-pill:hover {
+  color: var(--text-primary);
+  background-color: var(--bg-elevated);
+}
+
+.tab-pill.active {
+  background-color: var(--accent);
+  color: #fff;
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+}

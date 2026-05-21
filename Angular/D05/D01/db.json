@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "username": "essam",
+      "email": "essam@gmail.com",
+      "password": "123456",
+      "id": "JghtwSMwsh4"
+    },
+    {
+      "username": "wdw",
+      "email": "msam01619@gmail.com",
+      "password": "dwdwddw",
+      "confirmpassword": "dwdwddw",
+      "id": "EjKEaJjZfco"
+    },
+    {
+      "username": "mo",
+      "email": "mo@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "id": "Vuk2LkaGJiA"
+    }
+  ],
+  "todos": [
+    {
+      "id": "rKssGlei-yw",
+      "title": "cdc",
+      "description": "cdcdfdgg",
+      "priority": "Medium",
+      "date": "2026-04-17",
+      "tags": "bgfb",
+      "isSDone": false,
+      "userEmail": "z@gmail.com"
+    },
+    {
+      "id": "fBpe5_cjc1U",
+      "title": "dsffd",
+      "description": "sdgdfgdfghgffg",
+      "priority": "Medium",
+      "date": "2026-04-28",
+      "tags": "wasdvg",
+      "isSDone": false,
+      "userEmail": "essam@gmail.com"
+    },
+    {
+      "id": "bq796FdN0mg",
+      "title": "dfefgjklkl;",
+      "description": "/.vcxz",
+      "priority": "Medium",
+      "date": "2026-04-08",
+      "tags": "xccxcx",
+      "isSDone": false,
+      "userEmail": "msam01619@gmail.com"
+    },
+    {
+      "id": "8xPjXGxyTg4",
+      "title": "task for mo ",
+      "description": "description",
+      "priority": "High",
+      "date": "2026-04-13",
+      "tags": "work",
+      "isSDone": false,
+      "userEmail": "mm@gmail.com"
+    },
+    {
+      "id": "65TCp5pcwjc",
+      "title": "tASK2 FOR MO",
+      "description": "DESCRIPTION FOR THE TASK ",
+      "priority": "Low",
+      "date": "2026-05-07",
+      "tags": "STUDY",
+      "isSDone": true,
+      "userEmail": "mm@gmail.com"
+    },
+    {
+      "id": "MeGJIRpfPWU",
+      "title": "task for mo ",
+      "description": "description",
+      "priority": "Low",
+      "date": "2026-04-22",
+      "tags": "tag1",
+      "isSDone": true,
+      "userEmail": "mo@gmail.com"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

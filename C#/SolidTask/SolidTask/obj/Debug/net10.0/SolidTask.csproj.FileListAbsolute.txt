@@ -1,0 +1,15 @@
+D:\ITI\ITI_tasks\C#\SolidTask\SolidTask\bin\Debug\net10.0\SolidTask.exe
+D:\ITI\ITI_tasks\C#\SolidTask\SolidTask\bin\Debug\net10.0\SolidTask.deps.json
+D:\ITI\ITI_tasks\C#\SolidTask\SolidTask\bin\Debug\net10.0\SolidTask.runtimeconfig.json
+D:\ITI\ITI_tasks\C#\SolidTask\SolidTask\bin\Debug\net10.0\SolidTask.dll
+D:\ITI\ITI_tasks\C#\SolidTask\SolidTask\bin\Debug\net10.0\SolidTask.pdb
+D:\ITI\ITI_tasks\C#\SolidTask\SolidTask\obj\Debug\net10.0\SolidTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI_tasks\C#\SolidTask\SolidTask\obj\Debug\net10.0\SolidTask.AssemblyInfoInputs.cache
+D:\ITI\ITI_tasks\C#\SolidTask\SolidTask\obj\Debug\net10.0\SolidTask.AssemblyInfo.cs
+D:\ITI\ITI_tasks\C#\SolidTask\SolidTask\obj\Debug\net10.0\SolidTask.csproj.CoreCompileInputs.cache
+D:\ITI\ITI_tasks\C#\SolidTask\SolidTask\obj\Debug\net10.0\SolidTask.sourcelink.json
+D:\ITI\ITI_tasks\C#\SolidTask\SolidTask\obj\Debug\net10.0\SolidTask.dll
+D:\ITI\ITI_tasks\C#\SolidTask\SolidTask\obj\Debug\net10.0\refint\SolidTask.dll
+D:\ITI\ITI_tasks\C#\SolidTask\SolidTask\obj\Debug\net10.0\SolidTask.pdb
+D:\ITI\ITI_tasks\C#\SolidTask\SolidTask\obj\Debug\net10.0\SolidTask.genruntimeconfig.cache
+D:\ITI\ITI_tasks\C#\SolidTask\SolidTask\obj\Debug\net10.0\ref\SolidTask.dll

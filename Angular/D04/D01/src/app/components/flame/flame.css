@@ -1,0 +1,14 @@
+.streak-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background-color: var(--bg-input);
+  padding: 8px 16px;
+  border-radius: var(--radius-full);
+  box-shadow: var(--shadow-card);
+}
+.streak {
+  color: var(--accent);
+  font-weight: bold;
+  margin: 0;
+}

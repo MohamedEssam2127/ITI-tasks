@@ -1,0 +1,49 @@
+<form
+#form="ngForm"
+(submit)="onSubmit(form , email , password)"
+class="auth-container">
+  <div class="auth-card monolith-card">
+    <h1 class="auth-title">Sign In</h1>
+    <p class="auth-subtitle">Welcome back, Architect.</p>
+
+    <div class="form-group">
+      <div class="input-wrapper">
+        <input type="email"
+        name="email"
+        ngModel
+         #email="ngModel"
+         required
+          pattern="^[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}$"
+        placeholder="Email Address" class="auth-input" [class.error]="!email.valid && email.dirty">
+      </div>
+      @if (!email.valid && email.dirty) {
+        <span class="error-message">Please enter a valid email address.</span>
+      }
+    </div>
+
+    <div class="form-group">
+      <div class="input-wrapper">
+        <input  [type]="showPassword ? 'text' : 'password'"
+         ngModel
+          name="password"
+          #password="ngModel"
+          placeholder="Password"
+          required
+          minlength="6"
+        class="auth-input" [class.error]="!password.valid && password.dirty">
+        <i class="fa-solid password-toggle" [class.fa-eye]="!showPassword" [class.fa-eye-slash]="showPassword" (click)="showPassword = !showPassword"></i>
+      </div>
+      @if (!password.valid && password.dirty) {
+        <span class="error-message">Password must be at least 6 characters.</span>
+      }
+    </div>
+
+    @if (!authFailed()&& onSubmitClicked) {
+      <div class="form-group" style="margin-bottom: 16px;">
+        <span class="error-message" style="text-align: center; margin-top: 0;">Invalid email or password.</span>
+      </div>
+    }
+
+    <button type="submit" class="auth-btn">Enter</button>
+  </div>
+</form>

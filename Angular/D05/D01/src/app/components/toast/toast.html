@@ -1,0 +1,38 @@
+@switch (toastService.toastType()) {
+  @case ('success') {
+    <div class="toast card success">
+      <p class="card-title">Added successfully</p>
+    </div>
+  }
+  @case ('delete') {
+    <div class="toast card delete">
+      <p class="card-title">Deleted successfully</p>
+    </div>
+  }
+  @case ('update') {
+    <div class="toast card update">
+      <p class="card-title">Updated successfully</p>
+    </div>
+  }
+  @case ('done') {
+    <div class="toast card done">
+      <p class="card-title">Done!</p>
+    </div>
+  }
+  @default {
+    
+  }
+}
+
+
+<!-- <div class="toast card delete">
+  <p class="card-title">Deleted successfully</p>
+</div>
+
+<div class="toast card update">
+  <p class="card-title">Updated successfully</p>
+</div>
+
+<div class="toast card done">
+  <p class="card-title">Done!</p>
+</div> -->

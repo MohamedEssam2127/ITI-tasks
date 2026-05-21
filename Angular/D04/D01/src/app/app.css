@@ -1,0 +1,37 @@
+.app-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  padding: 40px 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.showcase-section {
+  margin-bottom: 80px;
+  padding-bottom: 40px;
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.1);
+}
+
+.section-heading {
+  font-size: 24px;
+  color: var(--text-secondary);
+  margin-bottom: 32px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.auth-showcase {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+}
+
+.auth-showcase > * {
+  flex: 1;
+}

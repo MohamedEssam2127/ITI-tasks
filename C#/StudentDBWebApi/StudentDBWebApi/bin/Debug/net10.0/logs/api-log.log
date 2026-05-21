@@ -1,0 +1,369 @@
+2026-05-10 15:21:44.5882|INFO|Request Path => /swagger/index.html , method => GET 
+2026-05-10 15:21:44.7624|INFO|Response Status Code => 304 , Time Taken => 180ms 
+2026-05-10 15:21:44.8704|INFO|Request Path => /swagger/swagger-ui.css , method => GET 
+2026-05-10 15:21:44.9050|INFO|Request Path => /swagger/index.css , method => GET 
+2026-05-10 15:21:44.9610|INFO|Request Path => /swagger/swagger-ui-bundle.js , method => GET 
+2026-05-10 15:21:44.9930|INFO|Request Path => /swagger/index.js , method => GET 
+2026-05-10 15:21:45.0252|INFO|Request Path => /swagger/swagger-ui-standalone-preset.js , method => GET 
+2026-05-10 15:21:45.0252|INFO|Response Status Code => 304 , Time Taken => 99ms 
+2026-05-10 15:21:45.0652|INFO|Response Status Code => 304 , Time Taken => 135ms 
+2026-05-10 15:21:45.1012|INFO|Response Status Code => 304 , Time Taken => 159ms 
+2026-05-10 15:21:45.1012|INFO|Response Status Code => 304 , Time Taken => 233ms 
+2026-05-10 15:21:45.1323|INFO|Response Status Code => 304 , Time Taken => 135ms 
+2026-05-10 15:21:45.2337|INFO|Request Path => /swagger/v1/swagger.json , method => GET 
+2026-05-10 15:21:45.2684|INFO|Response Status Code => 200 , Time Taken => 31ms 
+2026-05-10 15:21:45.2786|INFO|Request Path => /swagger/favicon-32x32.png , method => GET 
+2026-05-10 15:21:45.2786|INFO|Response Status Code => 304 , Time Taken => 8ms 
+2026-05-10 15:21:47.4970|INFO|Request Path => /api/Error , method => GET 
+2026-05-10 15:21:59.5440|INFO|Response Status Code => 500 , Time Taken => 12047ms 
+2026-05-10 15:22:56.4998|INFO|Request Path => /api/Student , method => POST 
+2026-05-10 15:22:58.7203|INFO|Response Status Code => 400 , Time Taken => 2219ms 
+2026-05-10 15:23:07.0786|INFO|Request Path => /api/Student , method => POST 
+2026-05-10 15:23:07.6599|INFO|Response Status Code => 201 , Time Taken => 578ms 
+2026-05-10 15:23:17.0762|INFO|Request Path => //images/9832e7cd-1e01-4307-a064-652e3914e334.jpg , method => GET 
+2026-05-10 15:23:17.1261|INFO|Response Status Code => 200 , Time Taken => 48ms 
+2026-05-10 15:23:18.7396|INFO|Request Path => //images/9832e7cd-1e01-4307-a064-652e3914e334.jpg , method => GET 
+2026-05-10 15:23:18.7456|INFO|Response Status Code => 304 , Time Taken => 6ms 
+2026-05-11 15:30:10.4293|INFO|Request Path => / , method => GET 
+2026-05-11 15:30:10.4658|INFO|Response Status Code => 404 , Time Taken => 39ms 
+2026-05-11 15:30:11.6556|INFO|Request Path => /swagger/index.html , method => GET 
+2026-05-11 15:30:11.7423|INFO|Response Status Code => 304 , Time Taken => 105ms 
+2026-05-11 15:30:11.7787|INFO|Request Path => /swagger/swagger-ui.css , method => GET 
+2026-05-11 15:30:11.8089|INFO|Request Path => /swagger/index.css , method => GET 
+2026-05-11 15:30:11.8089|INFO|Request Path => /swagger/swagger-ui-bundle.js , method => GET 
+2026-05-11 15:30:11.8282|INFO|Response Status Code => 304 , Time Taken => 69ms 
+2026-05-11 15:30:11.8559|INFO|Response Status Code => 304 , Time Taken => 69ms 
+2026-05-11 15:30:11.8914|INFO|Request Path => /swagger/index.js , method => GET 
+2026-05-11 15:30:11.9187|INFO|Request Path => /swagger/swagger-ui-standalone-preset.js , method => GET 
+2026-05-11 15:30:11.9187|INFO|Response Status Code => 304 , Time Taken => 115ms 
+2026-05-11 15:30:11.9301|INFO|Response Status Code => 304 , Time Taken => 38ms 
+2026-05-11 15:30:11.9666|INFO|Response Status Code => 304 , Time Taken => 41ms 
+2026-05-11 15:30:12.1093|INFO|Request Path => /swagger/v1/swagger.json , method => GET 
+2026-05-11 15:30:12.1671|INFO|Response Status Code => 200 , Time Taken => 31ms 
+2026-05-11 15:30:15.6482|INFO|Request Path => /api/Department , method => GET 
+2026-05-11 15:30:17.1377|INFO|Response Status Code => 200 , Time Taken => 1489ms 
+2026-05-11 15:32:34.0100|INFO|Request Path => /swagger/index.html , method => GET 
+2026-05-11 15:32:34.0856|INFO|Response Status Code => 304 , Time Taken => 80ms 
+2026-05-11 15:32:34.1536|INFO|Request Path => /swagger/index.css , method => GET 
+2026-05-11 15:32:34.1875|INFO|Request Path => /swagger/swagger-ui.css , method => GET 
+2026-05-11 15:32:34.2788|INFO|Request Path => /swagger/index.js , method => GET 
+2026-05-11 15:32:34.3093|INFO|Request Path => /swagger/swagger-ui-bundle.js , method => GET 
+2026-05-11 15:32:34.3374|INFO|Request Path => /swagger/swagger-ui-standalone-preset.js , method => GET 
+2026-05-11 15:32:34.3765|INFO|Response Status Code => 304 , Time Taken => 124ms 
+2026-05-11 15:32:34.4027|INFO|Response Status Code => 304 , Time Taken => 90ms 
+2026-05-11 15:32:34.4325|INFO|Response Status Code => 304 , Time Taken => 272ms 
+2026-05-11 15:32:34.4956|INFO|Response Status Code => 304 , Time Taken => 151ms 
+2026-05-11 15:32:34.4646|INFO|Response Status Code => 304 , Time Taken => 272ms 
+2026-05-11 15:32:34.5776|INFO|Request Path => /swagger/v1/swagger.json , method => GET 
+2026-05-11 15:32:34.5776|INFO|Request Path => /swagger/favicon-32x32.png , method => GET 
+2026-05-11 15:32:34.5864|INFO|Response Status Code => 304 , Time Taken => 4ms 
+2026-05-11 15:32:34.6355|INFO|Response Status Code => 200 , Time Taken => 24ms 
+2026-05-11 15:32:38.1787|INFO|Request Path => /api/Department , method => GET 
+2026-05-11 15:32:39.6845|INFO|Response Status Code => 200 , Time Taken => 1491ms 
+2026-05-11 15:33:14.6779|INFO|Request Path => /api/Department , method => POST 
+2026-05-11 15:33:14.7873|INFO|Response Status Code => 400 , Time Taken => 78ms 
+2026-05-11 15:33:56.5077|INFO|Request Path => /swagger/index.html , method => GET 
+2026-05-11 15:33:56.6718|INFO|Response Status Code => 200 , Time Taken => 139ms 
+2026-05-11 15:33:56.7595|INFO|Request Path => /swagger/index.css , method => GET 
+2026-05-11 15:33:56.7904|INFO|Request Path => /swagger/swagger-ui-bundle.js , method => GET 
+2026-05-11 15:33:56.8206|INFO|Request Path => /swagger/swagger-ui.css , method => GET 
+2026-05-11 15:33:56.8522|INFO|Request Path => /swagger/swagger-ui-standalone-preset.js , method => GET 
+2026-05-11 15:33:56.8837|INFO|Request Path => /swagger/index.js , method => GET 
+2026-05-11 15:33:56.8837|INFO|Response Status Code => 304 , Time Taken => 170ms 
+2026-05-11 15:33:56.9182|INFO|Response Status Code => 304 , Time Taken => 194ms 
+2026-05-11 15:33:56.9458|INFO|Response Status Code => 304 , Time Taken => 195ms 
+2026-05-11 15:33:56.9781|INFO|Response Status Code => 304 , Time Taken => 195ms 
+2026-05-11 15:33:57.0097|INFO|Response Status Code => 304 , Time Taken => 195ms 
+2026-05-11 15:33:57.0969|INFO|Request Path => /swagger/v1/swagger.json , method => GET 
+2026-05-11 15:33:57.1218|INFO|Response Status Code => 200 , Time Taken => 22ms 
+2026-05-11 15:33:57.1218|INFO|Request Path => /swagger/favicon-32x32.png , method => GET 
+2026-05-11 15:33:57.1218|INFO|Response Status Code => 304 , Time Taken => 4ms 
+2026-05-11 15:34:30.1808|INFO|Request Path => /api/Department , method => POST 
+2026-05-11 15:34:30.3189|INFO|Response Status Code => 400 , Time Taken => 138ms 
+2026-05-11 15:36:10.5974|INFO|Request Path => /api/Department , method => POST 
+2026-05-11 15:36:12.6612|INFO|Response Status Code => 201 , Time Taken => 2064ms 
+2026-05-11 15:37:13.4614|INFO|Request Path => /api/Department , method => GET 
+2026-05-11 15:37:13.6853|INFO|Response Status Code => 200 , Time Taken => 223ms 
+2026-05-11 15:38:06.8444|INFO|Request Path => /api/Department/1 , method => PUT 
+2026-05-11 15:38:06.8703|INFO|Response Status Code => 400 , Time Taken => 26ms 
+2026-05-11 15:38:23.2014|INFO|Request Path => /api/Department/1 , method => PUT 
+2026-05-11 15:38:23.2281|INFO|Response Status Code => 204 , Time Taken => 27ms 
+2026-05-11 15:38:32.3621|INFO|Request Path => /api/Department , method => GET 
+2026-05-11 15:38:32.3836|INFO|Response Status Code => 200 , Time Taken => 15ms 
+2026-05-11 16:05:06.5347|INFO|Request Path => /api/Department , method => GET 
+2026-05-11 16:05:09.4073|INFO|Response Status Code => 200 , Time Taken => 2881ms 
+2026-05-11 16:05:10.1432|INFO|Request Path => /api/Department , method => GET 
+2026-05-11 16:05:10.2810|INFO|Response Status Code => 200 , Time Taken => 139ms 
+2026-05-11 16:05:12.5243|INFO|Request Path => /api/Department , method => GET 
+2026-05-11 16:05:12.6196|INFO|Response Status Code => 200 , Time Taken => 68ms 
+2026-05-11 16:05:13.7121|INFO|Request Path => /api/Department , method => GET 
+2026-05-11 16:05:13.7121|INFO|Response Status Code => 200 , Time Taken => 10ms 
+2026-05-11 16:05:37.3944|INFO|Request Path => /api/Department , method => OPTIONS 
+2026-05-11 16:05:37.3991|INFO|Response Status Code => 204 , Time Taken => 4ms 
+2026-05-11 16:05:37.3991|INFO|Request Path => /api/Department , method => POST 
+2026-05-11 16:05:37.7845|INFO|Response Status Code => 201 , Time Taken => 381ms 
+2026-05-11 16:05:39.5060|INFO|Request Path => /api/Department , method => GET 
+2026-05-11 16:05:39.5474|INFO|Response Status Code => 200 , Time Taken => 16ms 
+2026-05-11 16:11:33.7463|INFO|Request Path => /api/Department/1 , method => GET 
+2026-05-11 16:11:33.8741|INFO|Response Status Code => 200 , Time Taken => 125ms 
+2026-05-11 16:15:03.4400|INFO|Request Path => /api/Department/1 , method => GET 
+2026-05-11 16:15:05.2717|INFO|Response Status Code => 200 , Time Taken => 1871ms 
+2026-05-11 16:15:19.8295|INFO|Request Path => /api/Department , method => GET 
+2026-05-11 16:15:19.8746|INFO|Response Status Code => 200 , Time Taken => 45ms 
+2026-05-11 16:19:59.2245|INFO|Request Path => /api/Department , method => OPTIONS 
+2026-05-11 16:19:59.2276|INFO|Response Status Code => 204 , Time Taken => 3ms 
+2026-05-11 16:19:59.2276|INFO|Request Path => /api/Department , method => POST 
+2026-05-11 16:19:59.5193|INFO|Response Status Code => 201 , Time Taken => 287ms 
+2026-05-11 16:20:02.0224|INFO|Request Path => /api/Department , method => GET 
+2026-05-11 16:20:02.0811|INFO|Response Status Code => 200 , Time Taken => 38ms 
+2026-05-12 18:05:51.8263|INFO|Request Path => / , method => GET 
+2026-05-12 18:05:51.8681|INFO|Response Status Code => 404 , Time Taken => 46ms 
+2026-05-12 18:06:00.5154|INFO|Request Path => / , method => GET 
+2026-05-12 18:06:00.5154|INFO|Response Status Code => 404 , Time Taken => 4ms 
+2026-05-12 18:06:03.2636|INFO|Request Path => /swagger/index.html , method => GET 
+2026-05-12 18:06:03.3199|INFO|Response Status Code => 304 , Time Taken => 56ms 
+2026-05-12 18:06:03.3570|INFO|Request Path => /swagger/swagger-ui.css , method => GET 
+2026-05-12 18:06:03.3570|INFO|Request Path => /swagger/index.css , method => GET 
+2026-05-12 18:06:03.3570|INFO|Request Path => /swagger/swagger-ui-bundle.js , method => GET 
+2026-05-12 18:06:03.3731|INFO|Response Status Code => 304 , Time Taken => 41ms 
+2026-05-12 18:06:03.4043|INFO|Response Status Code => 304 , Time Taken => 41ms 
+2026-05-12 18:06:03.4043|INFO|Response Status Code => 304 , Time Taken => 76ms 
+2026-05-12 18:06:03.4043|INFO|Request Path => /swagger/swagger-ui-standalone-preset.js , method => GET 
+2026-05-12 18:06:03.4180|INFO|Request Path => /swagger/index.js , method => GET 
+2026-05-12 18:06:03.4180|INFO|Response Status Code => 304 , Time Taken => 2ms 
+2026-05-12 18:06:03.4180|INFO|Response Status Code => 304 , Time Taken => 9ms 
+2026-05-12 18:06:03.5158|INFO|Request Path => /swagger/v1/swagger.json , method => GET 
+2026-05-12 18:06:03.5303|INFO|Response Status Code => 200 , Time Taken => 14ms 
+2026-05-12 18:06:12.1656|INFO|Request Path => /api/Department , method => GET 
+2026-05-12 18:06:14.8232|INFO|Response Status Code => 200 , Time Taken => 2657ms 
+2026-05-12 18:42:01.5407|INFO|Request Path => / , method => GET 
+2026-05-12 18:42:01.5733|INFO|Response Status Code => 404 , Time Taken => 35ms 
+2026-05-12 18:42:04.1269|INFO|Request Path => /swagger/index.html , method => GET 
+2026-05-12 18:42:04.1829|INFO|Response Status Code => 304 , Time Taken => 89ms 
+2026-05-12 18:42:04.2372|INFO|Request Path => /swagger/swagger-ui.css , method => GET 
+2026-05-12 18:42:04.2714|INFO|Request Path => /swagger/index.css , method => GET 
+2026-05-12 18:42:04.3009|INFO|Request Path => /swagger/swagger-ui-bundle.js , method => GET 
+2026-05-12 18:42:04.3326|INFO|Request Path => /swagger/swagger-ui-standalone-preset.js , method => GET 
+2026-05-12 18:42:04.3326|INFO|Request Path => /swagger/index.js , method => GET 
+2026-05-12 18:42:04.3667|INFO|Response Status Code => 304 , Time Taken => 30ms 
+2026-05-12 18:42:04.3879|INFO|Response Status Code => 304 , Time Taken => 179ms 
+2026-05-12 18:42:04.4235|INFO|Response Status Code => 304 , Time Taken => 147ms 
+2026-05-12 18:42:04.4543|INFO|Response Status Code => 304 , Time Taken => 84ms 
+2026-05-12 18:42:04.4854|INFO|Response Status Code => 304 , Time Taken => 182ms 
+2026-05-12 18:42:04.5648|INFO|Request Path => /swagger/v1/swagger.json , method => GET 
+2026-05-12 18:42:04.6110|INFO|Response Status Code => 200 , Time Taken => 14ms 
+2026-05-12 18:42:07.0257|INFO|Request Path => /api/Department , method => GET 
+2026-05-12 18:42:08.5537|INFO|Response Status Code => 200 , Time Taken => 1527ms 
+2026-05-12 23:33:24.1033|INFO|Request Path => / , method => GET 
+2026-05-12 23:33:25.4545|INFO|Response Status Code => 404 , Time Taken => 1358ms 
+2026-05-12 23:33:25.5480|INFO|Request Path => /swagger/index.html , method => GET 
+2026-05-12 23:33:25.6217|INFO|Response Status Code => 304 , Time Taken => 73ms 
+2026-05-12 23:33:25.6399|INFO|Request Path => /swagger/index.css , method => GET 
+2026-05-12 23:33:25.6702|INFO|Request Path => /swagger/swagger-ui.css , method => GET 
+2026-05-12 23:33:25.7017|INFO|Request Path => /swagger/swagger-ui-bundle.js , method => GET 
+2026-05-12 23:33:25.7185|INFO|Response Status Code => 304 , Time Taken => 78ms 
+2026-05-12 23:33:25.7185|INFO|Response Status Code => 304 , Time Taken => 82ms 
+2026-05-12 23:33:25.7185|INFO|Request Path => /swagger/swagger-ui-standalone-preset.js , method => GET 
+2026-05-12 23:33:25.7429|INFO|Request Path => /swagger/index.js , method => GET 
+2026-05-12 23:33:25.7454|INFO|Response Status Code => 304 , Time Taken => 2ms 
+2026-05-12 23:33:25.7805|INFO|Response Status Code => 304 , Time Taken => 17ms 
+2026-05-12 23:33:25.7805|INFO|Response Status Code => 304 , Time Taken => 143ms 
+2026-05-12 23:33:25.9729|INFO|Request Path => /swagger/v1/swagger.json , method => GET 
+2026-05-12 23:33:26.0166|INFO|Response Status Code => 200 , Time Taken => 16ms 
+2026-05-12 23:33:56.8976|INFO|Request Path => /api/Role , method => POST 
+2026-05-12 23:33:59.0464|ERROR|Failed executing DbCommand (61ms) [Parameters=[@normalizedName='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @normalizedName 
+2026-05-12 23:33:59.1149|ERROR|An exception occurred while iterating over the results of a query for context type 'StudentDBWebApi.Context.UniversityContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'AspNetRoles'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:d5b48871-6015-4643-b287-acbcc412a49e
+Error Number:208,State:1,Class:16 Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'AspNetRoles'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:d5b48871-6015-4643-b287-acbcc412a49e
+Error Number:208,State:1,Class:16
+2026-05-12 23:53:11.7464|INFO|Request Path => / , method => GET 
+2026-05-12 23:53:12.0965|INFO|Response Status Code => 404 , Time Taken => 354ms 
+2026-05-12 23:53:14.9203|INFO|Request Path => /swagger/index.html , method => GET 
+2026-05-12 23:53:15.1536|INFO|Response Status Code => 304 , Time Taken => 234ms 
+2026-05-12 23:53:15.1828|INFO|Request Path => /swagger/swagger-ui.css , method => GET 
+2026-05-12 23:53:15.1828|INFO|Request Path => /swagger/index.css , method => GET 
+2026-05-12 23:53:15.2194|INFO|Request Path => /swagger/swagger-ui-bundle.js , method => GET 
+2026-05-12 23:53:15.2495|INFO|Request Path => /swagger/swagger-ui-standalone-preset.js , method => GET 
+2026-05-12 23:53:15.2495|INFO|Request Path => /swagger/index.js , method => GET 
+2026-05-12 23:53:15.2801|INFO|Response Status Code => 304 , Time Taken => 2ms 
+2026-05-12 23:53:15.3054|INFO|Response Status Code => 304 , Time Taken => 113ms 
+2026-05-12 23:53:15.3274|INFO|Response Status Code => 304 , Time Taken => 83ms 
+2026-05-12 23:53:15.3274|INFO|Response Status Code => 304 , Time Taken => 120ms 
+2026-05-12 23:53:15.3578|INFO|Response Status Code => 304 , Time Taken => 123ms 
+2026-05-12 23:53:15.5366|INFO|Request Path => /swagger/v1/swagger.json , method => GET 
+2026-05-12 23:53:15.5436|INFO|Request Path => /swagger/favicon-32x32.png , method => GET 
+2026-05-12 23:53:15.5436|INFO|Response Status Code => 304 , Time Taken => 2ms 
+2026-05-12 23:53:15.5668|INFO|Response Status Code => 200 , Time Taken => 28ms 
+2026-05-12 23:53:41.2444|INFO|Request Path => /api/Role , method => POST 
+2026-05-12 23:53:43.2850|INFO|Response Status Code => 200 , Time Taken => 2040ms 
+2026-05-12 23:53:53.2283|INFO|Request Path => /api/Role , method => POST 
+2026-05-12 23:53:53.3115|INFO|Response Status Code => 200 , Time Taken => 83ms 
+2026-05-12 23:54:02.1073|INFO|Request Path => /api/Department , method => GET 
+2026-05-12 23:54:02.1228|INFO|Response Status Code => 401 , Time Taken => 15ms 
+2026-05-12 23:54:05.4414|INFO|Request Path => /api/Department , method => GET 
+2026-05-12 23:54:05.4414|INFO|Response Status Code => 401 , Time Taken => 3ms 
+2026-05-12 23:56:58.8473|INFO|Request Path => /api/Account/register , method => POST 
+2026-05-12 23:56:58.9148|INFO|Response Status Code => 400 , Time Taken => 46ms 
+2026-05-12 23:57:42.8255|INFO|Request Path => /swagger/index.html , method => GET 
+2026-05-12 23:57:42.9089|INFO|Response Status Code => 304 , Time Taken => 89ms 
+2026-05-12 23:57:42.9673|INFO|Request Path => /swagger/swagger-ui.css , method => GET 
+2026-05-12 23:57:42.9673|INFO|Request Path => /swagger/index.css , method => GET 
+2026-05-12 23:57:42.9997|INFO|Request Path => /swagger/swagger-ui-bundle.js , method => GET 
+2026-05-12 23:57:43.0319|INFO|Request Path => /swagger/swagger-ui-standalone-preset.js , method => GET 
+2026-05-12 23:57:43.0636|INFO|Request Path => /swagger/index.js , method => GET 
+2026-05-12 23:57:43.0636|INFO|Response Status Code => 304 , Time Taken => 32ms 
+2026-05-12 23:57:43.0928|INFO|Response Status Code => 304 , Time Taken => 90ms 
+2026-05-12 23:57:43.0928|INFO|Response Status Code => 304 , Time Taken => 123ms 
+2026-05-12 23:57:43.0928|INFO|Response Status Code => 304 , Time Taken => 126ms 
+2026-05-12 23:57:43.1248|INFO|Response Status Code => 304 , Time Taken => 149ms 
+2026-05-12 23:57:43.2073|INFO|Request Path => /swagger/v1/swagger.json , method => GET 
+2026-05-12 23:57:43.2153|INFO|Request Path => /swagger/favicon-32x32.png , method => GET 
+2026-05-12 23:57:43.2153|INFO|Response Status Code => 304 , Time Taken => 2ms 
+2026-05-12 23:57:43.2357|INFO|Response Status Code => 200 , Time Taken => 29ms 
+2026-05-12 23:58:13.4529|INFO|Request Path => /api/Account/register , method => POST 
+2026-05-12 23:58:15.7815|INFO|Response Status Code => 200 , Time Taken => 2328ms 
+2026-05-13 00:02:15.6320|INFO|Request Path => /api/AccountController/register , method => POST 
+2026-05-13 00:02:15.6320|INFO|Response Status Code => 404 , Time Taken => 2ms 
+2026-05-13 00:13:29.6605|INFO|Request Path => /api/Account/register , method => POST 
+2026-05-13 00:13:30.2819|INFO|Response Status Code => 200 , Time Taken => 587ms 
+2026-05-13 00:14:23.5570|INFO|Request Path => /api/Account/login , method => POST 
+2026-05-13 00:14:23.6091|INFO|Response Status Code => 401 , Time Taken => 51ms 
+2026-05-13 00:16:58.9066|INFO|Request Path => /api/Account/login , method => POST 
+2026-05-13 00:16:58.9189|INFO|Response Status Code => 401 , Time Taken => 12ms 
+2026-05-13 00:17:38.7151|INFO|Request Path => /api/Account/register , method => POST 
+2026-05-13 00:17:38.8335|INFO|Response Status Code => 200 , Time Taken => 117ms 
+2026-05-13 00:18:02.7573|INFO|Request Path => /api/Account/login , method => POST 
+2026-05-13 00:18:03.1599|INFO|Response Status Code => 200 , Time Taken => 408ms 
+2026-05-13 00:44:13.3322|INFO|Request Path => /api/Account/register , method => POST 
+2026-05-13 00:44:15.8745|INFO|Response Status Code => 200 , Time Taken => 2544ms 
+2026-05-13 00:44:29.8233|INFO|Request Path => /api/Account/login , method => POST 
+2026-05-13 00:44:30.1677|INFO|Response Status Code => 200 , Time Taken => 343ms 
+2026-05-13 00:46:37.4538|INFO|Request Path => /api/Department , method => GET 
+2026-05-13 00:46:37.4776|INFO|Response Status Code => 401 , Time Taken => 24ms 
+2026-05-13 00:47:17.8044|INFO|Request Path => /api/Department , method => GET 
+2026-05-13 00:47:18.2166|INFO|Response Status Code => 403 , Time Taken => 412ms 
+2026-05-13 00:48:36.5900|INFO|Request Path => /api/Department , method => GET 
+2026-05-13 00:48:36.6233|INFO|Response Status Code => 403 , Time Taken => 33ms 
+2026-05-13 01:20:25.0493|INFO|Request Path => /api/Department , method => GET 
+2026-05-13 01:20:25.1353|INFO|Response Status Code => 401 , Time Taken => 18ms 
+2026-05-13 01:20:39.0087|INFO|Request Path => /api/Account/login , method => POST 
+2026-05-13 01:20:39.1591|INFO|Response Status Code => 200 , Time Taken => 151ms 
+2026-05-13 01:21:52.5284|INFO|Request Path => /api/Department , method => GET 
+2026-05-13 01:21:53.0157|INFO|Response Status Code => 200 , Time Taken => 487ms 
+2026-05-13 01:23:13.6957|INFO|Request Path => /api/Department , method => GET 
+2026-05-13 01:23:14.0621|INFO|Response Status Code => 401 , Time Taken => 366ms 
+2026-05-13 01:23:18.1107|INFO|Request Path => /api/Department , method => GET 
+2026-05-13 01:23:18.1610|INFO|Response Status Code => 200 , Time Taken => 15ms 
+2026-05-13 16:31:17.8161|INFO|Request Path => /api/Account/login , method => POST 
+2026-05-13 16:31:23.6902|INFO|Response Status Code => 200 , Time Taken => 5901ms 
+2026-05-13 16:33:11.9170|INFO|Request Path => /api/Department , method => GET 
+2026-05-13 16:33:12.5724|INFO|Response Status Code => 200 , Time Taken => 654ms 
+2026-05-13 16:33:35.5232|INFO|Request Path => /api/Account/register , method => POST 
+2026-05-13 16:33:35.6443|INFO|Response Status Code => 400 , Time Taken => 153ms 
+2026-05-13 16:33:46.1424|INFO|Request Path => /api/Account/register , method => POST 
+2026-05-13 16:33:46.5633|INFO|Response Status Code => 200 , Time Taken => 416ms 
+2026-05-13 16:34:12.8530|INFO|Request Path => /api/Account/login , method => POST 
+2026-05-13 16:34:12.9326|INFO|Response Status Code => 200 , Time Taken => 80ms 
+2026-05-13 16:34:15.3941|INFO|Request Path => /api/Account/login , method => POST 
+2026-05-13 16:34:15.4760|INFO|Response Status Code => 200 , Time Taken => 81ms 
+2026-05-13 16:34:26.1367|INFO|Request Path => /api/Department , method => GET 
+2026-05-13 16:34:26.1367|INFO|Response Status Code => 403 , Time Taken => 10ms 
+2026-05-13 16:38:31.4925|INFO|Request Path => /api/Student , method => GET 
+2026-05-13 16:38:31.5062|INFO|Response Status Code => 401 , Time Taken => 17ms 
+2026-05-13 16:39:02.6820|INFO|Request Path => /api/Student , method => GET 
+2026-05-13 16:39:02.6820|INFO|Response Status Code => 403 , Time Taken => 3ms 
+2026-05-13 16:39:36.4512|INFO|Request Path => /api/Student/32432ef6-3666-4b66-9ece-039913b5b950 , method => GET 
+2026-05-13 16:39:36.4512|INFO|Response Status Code => 404 , Time Taken => 3ms 
+2026-05-13 16:39:48.1726|INFO|Request Path => /api/Student/1 , method => GET 
+2026-05-13 16:39:48.2444|INFO|Response Status Code => 403 , Time Taken => 71ms 
+2026-05-13 16:40:02.7402|INFO|Request Path => /api/Student/32432ef6-3666-4b66-9ece-039913b5b950 , method => GET 
+2026-05-13 16:40:02.7402|INFO|Response Status Code => 404 , Time Taken => 2ms 
+2026-05-13 16:41:36.5743|INFO|Request Path => /api/Student/1 , method => GET 
+2026-05-13 16:41:36.6994|INFO|Response Status Code => 200 , Time Taken => 144ms 
+2026-05-13 16:41:42.4781|INFO|Request Path => /api/Student/2 , method => GET 
+2026-05-13 16:41:42.4865|INFO|Response Status Code => 404 , Time Taken => 8ms 
+2026-05-13 16:41:56.4460|INFO|Request Path => /api/Student/3 , method => GET 
+2026-05-13 16:41:56.4575|INFO|Response Status Code => 403 , Time Taken => 11ms 
+2026-05-13 17:31:50.2563|INFO|Request Path => /api/Student/3 , method => GET 
+2026-05-13 17:31:50.4047|INFO|Response Status Code => 401 , Time Taken => 151ms 
+2026-05-13 17:31:57.5061|INFO|Request Path => /api/Account/login , method => POST 
+2026-05-13 17:31:59.5421|INFO|Response Status Code => 200 , Time Taken => 2035ms 
+2026-05-13 17:32:17.8508|INFO|Request Path => /api/Department , method => GET 
+2026-05-13 17:32:17.9688|INFO|Response Status Code => 403 , Time Taken => 117ms 
+2026-05-13 17:32:27.0661|INFO|Request Path => /api/Student/3 , method => GET 
+2026-05-13 17:32:27.1821|INFO|Response Status Code => 403 , Time Taken => 115ms 
+2026-05-13 17:32:31.9386|INFO|Request Path => /api/Student/1 , method => GET 
+2026-05-13 17:32:31.9691|INFO|Response Status Code => 200 , Time Taken => 30ms 
+2026-05-13 17:32:43.7267|INFO|Request Path => /api/Account/logout , method => GET 
+2026-05-13 17:32:43.7319|INFO|Response Status Code => 405 , Time Taken => 5ms 
+2026-05-13 17:32:52.1228|INFO|Request Path => /api/Account/logout , method => GET 
+2026-05-13 17:32:52.1228|INFO|Response Status Code => 405 , Time Taken => 8ms 
+2026-05-13 17:34:03.0106|INFO|Request Path => /api/Account/logout , method => POST 
+2026-05-13 17:34:03.1676|INFO|Response Status Code => 200 , Time Taken => 156ms 
+2026-05-13 17:34:08.1662|INFO|Request Path => /api/Student/1 , method => GET 
+2026-05-13 17:34:08.1766|INFO|Response Status Code => 401 , Time Taken => 9ms 
+2026-05-13 17:34:13.0170|INFO|Request Path => /api/Account/login , method => POST 
+2026-05-13 17:34:13.1044|INFO|Response Status Code => 200 , Time Taken => 87ms 
+2026-05-13 17:34:26.3889|INFO|Request Path => /api/Department , method => GET 
+2026-05-13 17:34:26.4020|INFO|Response Status Code => 403 , Time Taken => 12ms 
+2026-05-13 17:34:30.7077|INFO|Request Path => /api/Student/1 , method => GET 
+2026-05-13 17:34:30.7189|INFO|Response Status Code => 401 , Time Taken => 11ms 
+2026-05-13 17:34:35.9629|INFO|Request Path => /api/Student/1 , method => GET 
+2026-05-13 17:34:36.0094|INFO|Response Status Code => 200 , Time Taken => 18ms 
+2026-05-13 18:13:07.8721|INFO|Request Path => /api/Student/1 , method => GET 
+2026-05-13 18:13:07.8721|INFO|Response Status Code => 401 , Time Taken => 3ms 
+2026-05-13 18:22:01.5898|INFO|Request Path => /api/Account/register , method => POST 
+2026-05-13 18:22:01.9360|INFO|Response Status Code => 200 , Time Taken => 346ms 
+2026-05-13 18:22:10.6568|INFO|Request Path => /api/Account/login , method => POST 
+2026-05-13 18:22:10.7420|INFO|Response Status Code => 200 , Time Taken => 85ms 
+2026-05-13 18:22:30.5897|INFO|Request Path => /api/Department , method => GET 
+2026-05-13 18:22:30.5897|INFO|Response Status Code => 403 , Time Taken => 8ms 
+2026-05-13 18:22:44.6946|INFO|Request Path => /api/Student/1 , method => GET 
+2026-05-13 18:22:44.7177|INFO|Response Status Code => 403 , Time Taken => 22ms 
+2026-05-13 18:22:49.0106|INFO|Request Path => /api/Student/3 , method => GET 
+2026-05-13 18:22:49.0600|INFO|Response Status Code => 403 , Time Taken => 50ms 
+2026-05-13 18:22:54.4149|INFO|Request Path => /api/Student/3 , method => GET 
+2026-05-13 18:22:54.4337|INFO|Response Status Code => 403 , Time Taken => 17ms 
+2026-05-13 18:23:07.7155|INFO|Request Path => /api/Student/3 , method => GET 
+2026-05-13 18:23:07.8144|INFO|Response Status Code => 403 , Time Taken => 203ms 
+2026-05-13 18:23:14.0474|INFO|Request Path => /api/Account/login , method => POST 
+2026-05-13 18:23:14.1589|INFO|Response Status Code => 200 , Time Taken => 111ms 
+2026-05-13 18:23:25.6018|INFO|Request Path => /api/Student/1 , method => GET 
+2026-05-13 18:23:25.6844|INFO|Response Status Code => 200 , Time Taken => 87ms 
+2026-05-13 18:23:36.6071|INFO|Request Path => /api/Student/3 , method => GET 
+2026-05-13 18:23:36.6240|INFO|Response Status Code => 403 , Time Taken => 17ms 
+2026-05-13 18:23:44.7718|INFO|Request Path => /api/Department , method => GET 
+2026-05-13 18:23:44.7817|INFO|Response Status Code => 403 , Time Taken => 8ms 
+2026-05-13 18:23:53.4120|INFO|Request Path => /api/Account/login , method => POST 
+2026-05-13 18:23:53.5345|INFO|Response Status Code => 200 , Time Taken => 90ms 
+2026-05-13 18:24:03.4360|INFO|Request Path => /api/Department , method => GET 
+2026-05-13 18:24:03.6178|INFO|Response Status Code => 200 , Time Taken => 181ms 

@@ -1,0 +1,14 @@
+<div class="card-list">
+  <app-tabs (filterChanged)="onFilterChange($event)"></app-tabs>
+
+  <div class="card-list">
+    @for(card of filteredTodos(); track card.id) {
+       <app-card [toDo]="card" />
+    } @empty {
+       <div class="empty-state">
+         <img src="EmptyTodos.png" alt="Empty state" />
+         <h1>There are no Todos now</h1>
+       </div>
+    }
+  </div>
+</div>

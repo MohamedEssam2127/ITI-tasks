@@ -1,0 +1,50 @@
+<form
+[formGroup]="form"
+(submit)="handleSubmit()"
+class="auth-container">
+  <div class="auth-card monolith-card">
+    <h1 class="auth-title">Join Us</h1>
+    <p class="auth-subtitle">Become a Digital Curator.</p>
+
+    <div class="form-group">
+      <div class="input-wrapper">
+        <input type="text"  formControlName="username" placeholder="Full Name" class="auth-input"  [class.error]="form.get('username')?.invalid && form.get('username')?.dirty">
+      </div>
+      @if (form.get('username')?.invalid && form.get('username')?.dirty) {
+        <span class="error-message">Full Name is required.</span>
+      }
+    </div>
+
+    <div class="form-group">
+      <div class="input-wrapper">
+        <input type="email" formControlName="email" placeholder="Email Address" class="auth-input" [class.error]="form.get('email')?.invalid && form.get('email')?.dirty">
+      </div>
+      @if (form.get('email')?.invalid && form.get('email')?.dirty) {
+        <span class="error-message">Please enter a valid email address.</span>
+      }
+    </div>
+
+    <div class="form-group">
+      <div class="input-wrapper">
+        <input [type]="showPassword ? 'text' : 'password'" formControlName="password" placeholder="Password" class="auth-input" [class.error]="form.get('password')?.invalid && form.get('password')?.dirty">
+        <i class="fa-solid password-toggle" [class.fa-eye]="!showPassword" [class.fa-eye-slash]="showPassword" (click)="showPassword = !showPassword"></i>
+      </div>
+      @if (form.get('password')?.invalid && form.get('password')?.dirty) {
+        <span class="error-message">Password must be at least 6 characters.</span>
+      }
+    </div>
+       <div class="form-group">
+      <div class="input-wrapper">
+        <input [type]="showConfirmPassword ? 'text' : 'password'" formControlName="confirmpassword" placeholder="Confirm Password" class="auth-input" [class.error]="(form.get('confirmpassword')?.invalid || form.errors?.['missMatch']) && form.get('confirmpassword')?.dirty">
+        <i class="fa-solid password-toggle" [class.fa-eye]="!showConfirmPassword" [class.fa-eye-slash]="showConfirmPassword" (click)="showConfirmPassword = !showConfirmPassword"></i>
+      </div>
+      @if (form.get('confirmpassword')?.invalid && form.get('confirmpassword')?.dirty) {
+        <span class="error-message">Password must be at least 6 characters.</span>
+      } @else if (form.errors?.['missMatch'] && form.get('confirmpassword')?.dirty) {
+        <span class="error-message">Passwords do not match.</span>
+      }
+    </div>
+
+    <button type="submit" class="auth-btn">Register</button>
+  </div>
+</form>

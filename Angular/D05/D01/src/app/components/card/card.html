@@ -1,0 +1,63 @@
+<div class="card" >
+
+  @if (!isEdited) {
+    <div class="card-body">
+      <div class="card-info">
+        <div class="card-header">
+          <p class="card-title">{{toDo.title}}</p>
+          <p class="difficulty" 
+             [class.priority-high]="toDo.priority === 'High' || toDo.priority === 'Hard'" 
+             [class.priority-medium]="toDo.priority === 'Medium'" 
+             [class.priority-low]="toDo.priority === 'Low'">
+            {{toDo.priority}}
+          </p>
+        </div>
+
+        <div class="card-mid">
+          <pre class="card-des">{{toDo.description}}</pre>
+        </div>
+
+        <div class="card-meta">
+          <div class="tag-group">
+            <span class="category"><i class="fa-solid fa-tag"></i> {{toDo.tags}}</span>
+          </div>
+          <span class="card-date"><i class="fa-regular fa-calendar"></i> {{toDo.date}}</span>
+        </div>
+      </div>
+
+      <div class="card-side">
+        <button class="done-btn" [class.completed]="toDo.isSDone" (click)="toggleDone()">
+          @if (toDo.isSDone) { <i class="fa-solid fa-check"></i> } @else { <i class="fa-regular fa-clock"></i> }
+        </button>
+
+        <div class="card-actions">
+          @if (!toDo.isSDone) {
+            <button class="action-icon edit-icon" title="Edit" (click)="enableEdit()"><i class="fa-solid fa-pen-to-square"></i></button>
+            <button class="action-icon delete-icon" title="Delete" (click)="deleteCard()"><i class="fa-solid fa-trash"></i></button>
+          }
+        </div>
+      </div>
+    </div>
+
+  } @else {
+    <div class="edit-form">
+      <input [(ngModel)]="editingTodo.title" class="edit-input" placeholder="Title">
+      <textarea [(ngModel)]="editingTodo.description" class="edit-textarea" placeholder="Description"></textarea>
+
+      <div class="edit-row">
+        <select [(ngModel)]="editingTodo.priority" value="{{editingTodo.priority}}">
+          <option value="Low">Low</option>
+          <option value="Medium">Medium</option>
+          <option value="High">High</option>
+        </select>
+        <input type="date" [(ngModel)]="editingTodo.date">
+      </div>
+
+      <div class="edit-actions">
+        <button class="save-btn" (click)="saveEdit()">Save</button>
+        <button class="cancel-btn" (click)="cancelEdit()">Cancel</button>
+      </div>
+    </div>
+  }
+
+</div>

@@ -1,0 +1,52 @@
+<div class="auth-container">
+  <div class="auth-card monolith-card task-card">
+    <h1 class="auth-title">Capture Thought</h1>
+    <p class="auth-subtitle">Add a new task to your collection</p>
+
+    <div class="form-group">
+      <div class="input-wrapper">
+        <input type="text" placeholder="Task title" class="auth-input" [class.error]="isSubmitted && !inputObj.title" [(ngModel)]="inputObj.title">
+      </div>
+      @if (isSubmitted && !inputObj.title) {
+        <span class="error-message">Title is required.</span>
+      }
+    </div>
+
+    <div class="form-group">
+      <div class="input-wrapper">
+        <textarea placeholder="Task description" class="auth-input no-resize" [class.error]="isSubmitted && !inputObj.description" [(ngModel)]="inputObj.description"></textarea>
+      </div>
+      @if (isSubmitted && !inputObj.description) {
+        <span class="error-message">Description is required.</span>
+      }
+    </div>
+
+    <div class="form-group">
+      <div class="priority-group">
+        <div class="priority-btn" [class.active]="inputObj['priority'] === 'Low'" (click)="inputObj['priority'] = 'Low'">Low</div>
+        <div class="priority-btn" [class.active]="inputObj['priority'] === 'Medium'" (click)="inputObj['priority'] = 'Medium'">Medium</div>
+        <div class="priority-btn" [class.active]="inputObj['priority'] === 'High'" (click)="inputObj['priority'] = 'High'">High</div>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="input-wrapper">
+        <input type="date" class="auth-input" [(ngModel)]="inputObj['date']" [class.error]="isSubmitted && !inputObj.date">
+      </div>
+      @if (isSubmitted && !inputObj.date) {
+        <span class="error-message">Date is required.</span>
+      }
+    </div>
+
+    <div class="form-group">
+      <div class="input-wrapper">
+        <textarea placeholder="Tags (comma separated)" class="auth-input no-resize" [(ngModel)]="inputObj['tags']" [class.error]="isSubmitted && !inputObj.tags"></textarea>
+      </div>
+      @if (isSubmitted && !inputObj.tags) {
+        <span class="error-message">Tags are required.</span>
+      }
+    </div>
+
+    <button type="button" class="auth-btn" (click)="addToArray()">Create Task</button>
+  </div>
+</div>

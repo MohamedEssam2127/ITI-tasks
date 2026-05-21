@@ -1,0 +1,23 @@
+<header class="header">
+  <div class="brand">TaskCurator</div>
+  <nav class="nav">
+    <a routerLink="home" routerLinkActive="active">Home</a>
+    <a routerLink="tasks" routerLinkActive="active">Tasks</a>
+    <a routerLink="add" routerLinkActive="active">Add Task</a>
+  </nav>
+
+  <div class="header-actions">
+    @if (islogin()) {
+      <button class="btn-logout" (click)="logout()">Logout</button>
+      <div class="header-icons">
+        @if (isFlameVisible) {
+          <app-flame />
+        }
+        <div class="avatar"></div>
+      </div>
+    } @else {
+      <a routerLink="signin" class="btn-login">Login</a>
+      <a routerLink="signup" class="btn-register">Register</a>
+    }
+  </div>
+</header>
