@@ -1,20 +1,20 @@
-import CardList from "./components/CardList"
-import FeaturesSection from "./components/FeaturesSection"
-import HeroSection from "./components/Hero"
 import MyHeader from "./components/MyHeader"
-import CTASection from "./components/CTASection"
-import Footer from "./components/Footer"
+import Hero from "./components/Hero"
+import OurMenu from "./components/OurMenu"
+import AboutUs from "./components/AboutUs"
+import ContactUs from "./components/ContactUs"
+import MyFooter from "./components/MyFooter"
 
 function App() {
 
   return (
     <>
-    <MyHeader/>
-    <HeroSection/>
-    <CardList/>
-    <FeaturesSection/>
-    <CTASection/>
-    <Footer/>
+      <MyHeader />
+      <Hero/>
+      <OurMenu/>
+      <AboutUs/>
+      <ContactUs/>
+      <MyFooter/>
     </>
   )
 }
