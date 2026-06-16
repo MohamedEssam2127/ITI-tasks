@@ -1,15 +1,28 @@
 import 'package:flutter/material.dart';
 
 class MainCard extends StatelessWidget {
-  const MainCard({super.key});
+  MainCard({
+    super.key,
+    required this.totalTasks,
+    required this.completedTasks,
+    required this.ratio,
+  });
 
+  int totalTasks;
+  int completedTasks;
+  double ratio;
   @override
   Widget build(BuildContext context) {
-    return const Card(
-      color: Colors.white,
-      elevation: 2,
+    final colorScheme = Theme.of(context).colorScheme;
+    return Card(
+      color: colorScheme.surface,
+      elevation: 4,
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(16),
+        side: BorderSide(color: colorScheme.outlineVariant, width: 1.0),
+      ),
       child: Padding(
-        padding: EdgeInsets.symmetric(horizontal: 24, vertical: 32),
+        padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 32),
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
@@ -17,39 +30,42 @@ class MainCard extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Row(
+                  crossAxisAlignment: CrossAxisAlignment.baseline,
+                  textBaseline: TextBaseline.alphabetic,
                   children: [
                     Text(
-                      "14 / 20",
+                      "$completedTasks / $totalTasks",
                       style: TextStyle(
                         fontSize: 42,
                         fontWeight: FontWeight.bold,
                         letterSpacing: 1,
+                        color: colorScheme.primary,
                       ),
                     ),
-                    SizedBox(width: 12),
+                    const SizedBox(width: 8),
                     Icon(
                       Icons.arrow_upward,
-                      color: Colors.green,
-                      size: 34,
+                      color: colorScheme.secondary,
+                      size: 28,
                     ),
                   ],
                 ),
-                SizedBox(height: 12),
+                const SizedBox(height: 12),
                 Row(
                   children: [
                     Text(
                       "Tasks Optimized",
                       style: TextStyle(
                         fontSize: 16,
-                        fontWeight: FontWeight.w500,
-                        color: Colors.black87,
+                        fontWeight: FontWeight.w600,
+                        color: colorScheme.onSurfaceVariant,
                       ),
                     ),
-                    SizedBox(width: 8),
+                    const SizedBox(width: 8),
                     Icon(
                       Icons.check_circle,
-                      color: Colors.green,
-                      size: 22,
+                      color: colorScheme.secondary,
+                      size: 20,
                     ),
                   ],
                 ),
@@ -62,17 +78,18 @@ class MainCard extends StatelessWidget {
                   width: 85,
                   height: 85,
                   child: CircularProgressIndicator(
-                    value: 0.70,
+                    value: ratio,
                     strokeWidth: 9,
-                    backgroundColor: Color(0xFFE2E8F0),
-                    color: Color(0xFF4A6984),
+                    backgroundColor: colorScheme.outlineVariant,
+                    color: colorScheme.primary,
                   ),
                 ),
                 Text(
-                  "70%",
+                  "${ratio*100}%",
                   style: TextStyle(
                     fontSize: 20,
                     fontWeight: FontWeight.bold,
+                    color: colorScheme.onSurface,
                   ),
                 ),
               ],

@@ -1,13 +1,15 @@
 import 'package:flutter/material.dart';
 
 class HeaderCard extends StatelessWidget {
-  const HeaderCard({super.key});
+   HeaderCard({super.key,  required this.text });
 
+  String text ;
   @override
   Widget build(BuildContext context) {
-    return const Card(
-      color: Colors.white,
-      child: Padding(
+    final colorScheme = Theme.of(context).colorScheme;
+    return  Card(
+      color: colorScheme.primary ,
+      child:  Padding(
         padding: EdgeInsets.symmetric(horizontal: 20, vertical: 24),
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -19,26 +21,26 @@ class HeaderCard extends StatelessWidget {
                   "OPERATOR ASSIGNMENT",
                   style: TextStyle(
                     fontSize: 14,
-                    color: Colors.grey,
+                    color: colorScheme.onPrimary,
                     fontWeight: FontWeight.w500,
                     letterSpacing: 0.5,
                   ),
                 ),
                 SizedBox(height: 6),
                 Text(
-                  "SENIOR ENGINEER",
+                  text,
                   style: TextStyle(
                     fontSize: 24,
                     fontWeight: FontWeight.bold,
-                    color: Colors.black,
+                    color: colorScheme.onPrimary,
                   ),
                 ),
               ],
             ),
             CircleAvatar(
               radius: 32,
-              backgroundColor: Color(0xFFE2E8F0),
-              child: Icon(Icons.person, color: Color(0xFF64748B), size: 36),
+              backgroundColor: colorScheme.onPrimary,
+              child: Icon(Icons.person, color: colorScheme.secondary, size: 36),
             ),
           ],
         ),
