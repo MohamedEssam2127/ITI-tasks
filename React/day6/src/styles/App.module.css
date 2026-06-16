@@ -1,0 +1,22 @@
+.appContainer {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.appLayout {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+  margin-top: 1rem;
+}
+
+.appLeftSide {
+  flex: 0 0 340px;
+  position: sticky;
+  top: 1rem;
+}
+
+.appRightSide {
+  flex: 1;
+}

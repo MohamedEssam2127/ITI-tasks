@@ -1,0 +1,14 @@
+{
+  "formTitle": "Post a News Update",
+  "titleLabel": "Title",
+  "titlePlaceholder": "title",
+  "categoryLabel": "Category",
+  "categoryPlaceholder": "category",
+  "imgUrlLabel": "Img url",
+  "imgUrlPlaceholder": "img url",
+  "descriptionLabel": "Description",
+  "descriptionPlaceholder": "description",
+  "publishButton": "Publish News",
+  "addSuccess": "News post added",
+  "addFailed": "Failed to add news post."
+}

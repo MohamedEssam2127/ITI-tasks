@@ -1,0 +1,14 @@
+{
+  "formTitle": "نشر خبر جديد",
+  "titleLabel": "العنوان",
+  "titlePlaceholder": "العنوان",
+  "categoryLabel": "الفئة",
+  "categoryPlaceholder": "الفئة",
+  "imgUrlLabel": "رابط الصورة",
+  "imgUrlPlaceholder": "رابط الصورة",
+  "descriptionLabel": "الوصف",
+  "descriptionPlaceholder": "الوصف",
+  "publishButton": "نشر الخبر",
+  "addSuccess": "تمت إضافة الخبر بنجاح",
+  "addFailed": "فشلت إضافة الخبر."
+}

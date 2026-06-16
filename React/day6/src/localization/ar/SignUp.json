@@ -1,0 +1,14 @@
+{
+  "signUpTitle": "تسجيل حساب جديد",
+  "usernameLabel": "اسم المستخدم",
+  "usernamePlaceholder": "اسم المستخدم",
+  "emailLabel": "البريد الإلكتروني",
+  "emailPlaceholder": "البريد الإلكتروني",
+  "passwordLabel": "كلمة المرور",
+  "passwordPlaceholder": "كلمة المرور",
+  "fillAllFields": "يرجى ملء جميع الحقول.",
+  "registerSuccess": "تم التسجيل بنجاح!",
+  "signUpButton": "تسجيل",
+  "alreadyAccount": "لديك حساب بالفعل؟",
+  "loginLink": "تسجيل الدخول"
+}

@@ -1,0 +1,153 @@
+{
+  "card": [
+    {
+      "id": "news-101",
+      "title": "AI Copilots Cut Weekly Dev Time by 30% in Enterprise Teams",
+      "titleAr": "مساعدو الذكاء الاصطناعي يقللون وقت تطوير الفرق المؤسسية الأسبوعي بنسبة 30٪",
+      "imgUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+      "category": "AI",
+      "categoryAr": "الذكاء الاصطناعي",
+      "time": "2 hours ago",
+      "timeAr": "منذ ساعتين",
+      "description": "A multi-company study shows that engineering teams using AI copilots ship bug fixes faster while maintaining review quality through stricter merge checks.",
+      "descriptionAr": "أظهرت دراسة متعددة الشركات أن الفرق الهندسية التي تستخدم مساعدي الذكاء الاصطناعي تنجز إصلاحات الأخطاء بشكل أسرع مع الحفاظ على جودة المراجعة من خلال ضوابط دمج أكثر صرامة."
+    },
+    {
+      "id": "news-102",
+      "title": "React 19 Adoption Grows as Teams Migrate to Server Components",
+      "titleAr": "يتزايد اعتماد React 19 مع انتقال الفرق إلى مكونات الخادم",
+      "imgUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+      "category": "Frontend",
+      "categoryAr": "الواجهة الأمامية",
+      "time": "4 hours ago",
+      "timeAr": "منذ 4 ساعات",
+      "description": "Product teams report better first-load performance after migrating dashboard pages to server components and streaming data at render time.",
+      "descriptionAr": "تفيد فرق المنتجات بتحسن أداء التحميل الأولي بعد نقل صفحات لوحات التحكم إلى مكونات الخادم وبث البيانات أثناء التصيير."
+    },
+    {
+      "id": "news-103",
+      "title": "Cybersecurity Startups Raise $2.1B to Protect AI Workloads",
+      "titleAr": "شركات الأمن السيبراني الناشئة تجمع 2.1 مليار دولار لحماية أحمال الذكاء الاصطناعي",
+      "imgUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+      "category": "Security",
+      "categoryAr": "الأمن",
+      "time": "6 hours ago",
+      "timeAr": "منذ 6 ساعات",
+      "description": "Investors are backing runtime monitoring platforms that detect prompt injection, data leakage, and model abuse in production environments.",
+      "descriptionAr": "يدعم المستثمرون منصات مراقبة وقت التشغيل التي تكشف حقن الأوامر وتسرب البيانات وإساءة استخدام النماذج في بيئات الإنتاج."
+    },
+    {
+      "id": "news-104",
+      "title": "Global Cloud Spending Climbs as Data Platforms Expand",
+      "titleAr": "ارتفاع الإنفاق السحابي عالميًا مع توسع منصات البيانات",
+      "imgUrl": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+      "category": "Cloud",
+      "categoryAr": "السحابة",
+      "time": "8 hours ago",
+      "timeAr": "منذ 8 ساعات",
+      "description": "Enterprises are prioritizing observability and governance tooling while scaling analytics pipelines across multi-cloud infrastructure.",
+      "descriptionAr": "تعطي المؤسسات أولوية لأدوات المراقبة والحوكمة مع توسيع خطوط التحليلات عبر بنى سحابية متعددة."
+    },
+    {
+      "id": "news-105",
+      "title": "Design Systems Become Core to Faster Product Delivery",
+      "titleAr": "أصبحت أنظمة التصميم عنصرًا أساسيًا لتسريع تسليم المنتجات",
+      "imgUrl": "https://images.unsplash.com/photo-1558655146-9f40138edfeb",
+      "category": "Product",
+      "categoryAr": "المنتج",
+      "time": "10 hours ago",
+      "timeAr": "منذ 10 ساعات",
+      "description": "Unified component libraries and shared accessibility standards are reducing UI inconsistencies in large-scale web products.",
+      "descriptionAr": "تعمل مكتبات المكونات الموحدة ومعايير إمكانية الوصول المشتركة على تقليل عدم اتساق الواجهات في منتجات الويب واسعة النطاق."
+    },
+    {
+      "id": "news-106",
+      "title": "Open Source Maintainers Launch New Funding Coalition",
+      "titleAr": "مطورو المصادر المفتوحة يطلقون تحالفًا جديدًا للتمويل",
+      "imgUrl": "https://images.unsplash.com/photo-1526378722484-bd91ca387e72",
+      "category": "Open Source",
+      "categoryAr": "المصدر المفتوح",
+      "time": "12 hours ago",
+      "timeAr": "منذ 12 ساعة",
+      "description": "The coalition introduces transparent grants for critical libraries that power modern JavaScript, Python, and DevOps ecosystems.",
+      "descriptionAr": "يقدم التحالف منحًا شفافة للمكتبات الحيوية التي تدعم أنظمة JavaScript وPython وDevOps الحديثة."
+    },
+    {
+      "id": "news-107",
+      "title": "Edge Computing Accelerates Real-Time Retail Analytics",
+      "titleAr": "الحوسبة الطرفية تسرع تحليلات التجزئة في الوقت الفعلي",
+      "imgUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "category": "Data",
+      "categoryAr": "البيانات",
+      "time": "14 hours ago",
+      "timeAr": "منذ 14 ساعة",
+      "description": "Retail brands deploy edge AI to process in-store activity instantly, improving stock predictions and reducing checkout friction.",
+      "descriptionAr": "تنشر علامات التجزئة ذكاءً اصطناعيًا طرفيًا لمعالجة نشاط المتاجر فورًا، مما يحسن توقعات المخزون ويقلل احتكاك الدفع."
+    },
+    {
+      "id": "news-108",
+      "title": "Mobile UX Trends in 2026 Focus on Motion and Clarity",
+      "titleAr": "اتجاهات تجربة المستخدم للجوال في 2026 تركز على الحركة والوضوح",
+      "imgUrl": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c",
+      "category": "Mobile",
+      "categoryAr": "الموبايل",
+      "time": "16 hours ago",
+      "timeAr": "منذ 16 ساعة",
+      "description": "Top consumer apps are using subtle motion systems and cleaner typography to increase retention and simplify task completion.",
+      "descriptionAr": "تستخدم التطبيقات الاستهلاكية الرائدة أنظمة حركة دقيقة وطباعة أوضح لزيادة الاحتفاظ بالمستخدمين وتبسيط إتمام المهام."
+    },
+    {
+      "id": "news-109",
+      "title": "Startup Hiring Rebounds for Full-Stack and DevOps Roles",
+      "titleAr": "انتعاش توظيف الشركات الناشئة لمناصب Full-Stack وDevOps",
+      "imgUrl": "https://images.unsplash.com/photo-1551836022-d5d88e9218df",
+      "category": "Careers",
+      "categoryAr": "الوظائف",
+      "time": "18 hours ago",
+      "timeAr": "منذ 18 ساعة",
+      "description": "Hiring managers report rising demand for engineers who can own product features end-to-end and automate deployment workflows.",
+      "descriptionAr": "يفيد مديرو التوظيف بارتفاع الطلب على المهندسين القادرين على امتلاك ميزات المنتج من البداية إلى النهاية وأتمتة مسارات النشر."
+    },
+    {
+      "id": "news-110",
+      "title": "Green Data Centers Reduce Cooling Costs with New Architecture",
+      "titleAr": "مراكز البيانات الخضراء تخفض تكاليف التبريد بهندسة جديدة",
+      "imgUrl": "https://images.unsplash.com/photo-1581092160607-ee22621dd758",
+      "category": "Sustainability",
+      "categoryAr": "الاستدامة",
+      "time": "1 day ago",
+      "timeAr": "منذ يوم",
+      "description": "Operators are combining liquid cooling, workload optimization, and renewable grids to lower carbon impact without sacrificing uptime.",
+      "descriptionAr": "يجمع المشغلون بين التبريد السائل وتحسين أحمال العمل والشبكات المتجددة لخفض الأثر الكربوني دون التضحية بزمن التشغيل."
+    },
+    {
+      "title": " Angular 19 Improves Build Speed",
+      "category": "Web Development",
+      "imgUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+      "description": " Angular 19 introduces faster builds with Vite integration, improved SSR support, and enhanced standalone components for modern web applications",
+      "id": "Xaa1Yv1T7Lg"
+    },
+    {
+      "title": " Angular 19 Improves Build Speed",
+      "category": "  Web Development",
+      "imgUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+      "description": "  Angular 19 introduces faster builds with Vite integration, improved SSR support, and enhanced standalone components for modern web applications",
+      "id": "f364-toE6mU"
+    }
+  ],
+  "users": [
+    {
+      "username": "essam",
+      "email": "msam01619@gmail.com",
+      "password": "12",
+      "id": "Ic04rTVy-jQ"
+    },
+    {
+      "username": "essam",
+      "email": "essam@gmail.com",
+      "password": "12",
+      "id": "Rb8dDdyqSb4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

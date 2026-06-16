@@ -1,0 +1,14 @@
+{
+  "loginTitle": "Login",
+  "emailLabel": "Email",
+  "emailPlaceholder": "email",
+  "passwordLabel": "Password",
+  "passwordPlaceholder": "password",
+  "fillAllFields": "fill in all fields.",
+  "invalidCredentials": "Invalid email or password.",
+  "loginFailed": "login failed. Please try again.",
+  "loginSuccess": "Login successful!",
+  "loginButton": "Login",
+  "noAccount": "Don't have an account?",
+  "signUpLink": "Sign Up"
+}

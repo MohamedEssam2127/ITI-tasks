@@ -1,0 +1,30 @@
+.Search_container {
+  border: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 16px;
+  border-radius: 14px;
+  background-color: var(--white);
+  max-width: 720px;
+  margin: 18px auto 0;
+  box-shadow: 0 12px 30px rgba(13, 60, 118, 0.08);
+}
+
+.Search_container input {
+  border: none;
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  background: transparent;
+  color: var(--text-color);
+}
+
+.Search_container svg {
+  color: var(--color-primary);
+  font-size: 18px;
+}
+
+.Search_container input::placeholder {
+  color: var(--text-muted);
+}

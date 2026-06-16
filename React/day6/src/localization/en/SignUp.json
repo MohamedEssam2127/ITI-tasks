@@ -1,0 +1,14 @@
+{
+  "signUpTitle": "Sign Up",
+  "usernameLabel": "Username",
+  "usernamePlaceholder": "username",
+  "emailLabel": "Email",
+  "emailPlaceholder": "email",
+  "passwordLabel": "Password",
+  "passwordPlaceholder": "password",
+  "fillAllFields": "fill in all fields.",
+  "registerSuccess": "Registration successful!",
+  "signUpButton": "Sign Up",
+  "alreadyAccount": "Already have an account?",
+  "loginLink": "Login"
+}
